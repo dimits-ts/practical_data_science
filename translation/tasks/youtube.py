@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
+import dateparser
 import bs4
 import time
 
@@ -88,17 +89,26 @@ def extract_search_results(search_soup: bs4.BeautifulSoup) -> tuple[list[str], l
     return titles, links
 
 
-def extract_comments(video_soup: bs4.BeautifulSoup) -> list[str]:
+def extract_comments(video_soup: bs4.BeautifulSoup) -> tuple[list[str], list[str]]:
     """
     Extract comments from a YouTube video page represented by a BeautifulSoup object.
 
     :param video_soup: A BeautifulSoup object representing the YouTube video page.
     :type video_soup: bs4.BeautifulSoup
 
-    :return: A list of strings representing the extracted comments.
-    :rtype: list[str]
+    :return: A tuple containing a list of strings representing the extracted comments and a 
+    list containing the respective dates the comments were posted.
+    :rtype: tuple[list[str], list[str]]
     """
     comment_tags = video_soup.find_all("yt-formatted-string", {"id": "content-text"})
-    comments = [comment_tag.find("span") for comment_tag in comment_tags]
-    comments = [comment.get_text() for comment in comments if comment is not None]
-    return comments
+    comments = [comment_tag.get_text() for comment_tag in comment_tags]
+    
+    date_tags = video_soup.find_all("yt-formatted-string", class_= "published-time-text")
+    date_texts = [date_tag.find("a").get_text().strip() if date_tag is not None else None 
+                  for date_tag in date_tags]
+    date_texts = [text.replace("(edited)", "").replace("(τροποποιήθηκε)", "") 
+                 for text in date_texts]
+    dates = [dateparser.parse(date_text) for date_text in date_texts]
+    
+    assert len(dates) == len(comments), f"{len(dates)} != {len(comments)} "
+    return comments, dates
