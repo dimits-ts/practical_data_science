@@ -3,6 +3,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from urllib.request import Request, urlopen
 import bs4
+import threading
 
 
 def fetch_soup(url: str) -> bs4.BeautifulSoup:
@@ -33,6 +34,7 @@ class ChromeDriverManager:
     - To quit and close the Chrome WebDriver instance, use the `quit` class method.
     """
     DRIVER = None
+    lock = threading.Lock()
     options = webdriver.ChromeOptions()
 
     @classmethod
@@ -50,9 +52,11 @@ class ChromeDriverManager:
         Returns:
         The singleton instance of the Chrome WebDriver.
         """
-        if cls.DRIVER is None:
-            cls.DRIVER = _new_chrome_driver(cls.options)
-        return cls.DRIVER
+        with cls.lock:
+            if cls.DRIVER is None:
+                print("Creating new driver...")
+                cls.DRIVER = _new_chrome_driver(cls.options)
+            return cls.DRIVER
 
     @classmethod  
     def quit(cls):
@@ -61,8 +65,10 @@ class ChromeDriverManager:
 
         This method should be called when the WebDriver is no longer needed.
         """
-        cls.DRIVER.quit()
-        cls.DRIVER = None
+        with cls.lock:
+            if cls.DRIVER is not None:
+                cls.DRIVER.quit()
+                cls.DRIVER = None
 
     def __init__(self):
         """
