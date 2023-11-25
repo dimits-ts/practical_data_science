@@ -1,5 +1,5 @@
 from src.data import Post, Thread
-from src.util import fetch_soup
+from src.crawling import fetch_soup
 import dateparser
 import bs4
 
