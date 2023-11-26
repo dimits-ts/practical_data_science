@@ -56,6 +56,7 @@ class ChromeDriverManager:
             if cls.DRIVER is None:
                 print("Creating new driver...")
                 cls.DRIVER = _new_chrome_driver(cls.options)
+                print("New driver online.")
             return cls.DRIVER
 
     @classmethod  
