@@ -11,6 +11,7 @@
 \usepackage{makecell}
 \usepackage{setspace}
 \usepackage{geometry}
+\usepackage{booktabs}
 
 \pagenumbering{arabic}
 \onehalfspacing % Set line spacing to 1.5
@@ -87,5 +88,24 @@
 	
 	\section{Toxicity Classification Results}
 	
+	In this section we include the results of the toxicity analysis on the crawled data. The toxicity levels are defined as a scale from 1 to 5 where 1: Not Toxic, 	2: Maybe Toxic, 3: Almost Toxic,	4: Almost certainly Toxic, 5: Certainly Toxic.
 	
+	\begin{itemize}
+		\item Table \ref{tab::toxic_lang} shows a breakdown of average comment toxicity per language. 
+		
+		\item Table \ref{tab::toxic_videos} shows the videos with the most toxic comments, sorted by descending toxicity.
+		
+		\item Table \ref{tab::toxic_uniform} shows the videos where the comment toxicity remained uniform across time.
+		
+		\item Table \ref{tab::toxic_increasing} shows the videos where the comment toxicity increased over time, as well as the average rate of increase. 
+	\end{itemize}
+	
+	
+	\input{results/toxic_lang.tex}
+	
+	\input{results/toxic_videos.tex}
+	
+	\input{results/toxic_uniform.tex}
+	
+	\input{results/toxic_increasing.tex}
 \end{document}
