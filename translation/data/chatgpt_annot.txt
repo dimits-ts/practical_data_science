@@ -14,7 +14,7 @@
 
 "Γεια σου Γιάννη ωραίο βίντεο. Συνέχισε την καλή δουλειά. Είσαι ακαταμάχητος." - 1
 
-"Πάντα νικητής ο Gianubas :-)" - 1
+"Πάντα νικητής ο Gianubas :)" - 1
 
 "την τελευταια φορα που γυρισες τον τροχο το 3 αντικειμενο που δεν μπορουσες να χρησιμοποιησεις ηταν AR και εσυ και ο teampls χρυσημποιησατε AR και στην αρχη που πατησες το χεντιδι με το πιστολ στο slarpy και στο τελος απο το drop" - 3
 
@@ -156,7 +156,7 @@
 
 "Για ποιο πράγμα;" - 3
 
-"They fit great at the waist band. But it says long-legged and they are not. they are real short and ride up very easily .. very uncomfortable because I have to keep readjusting them" - 2
+"They fit great at the waist band. But it says longlegged and they are not. they are real short and ride up very easily .. very uncomfortable because I have to keep readjusting them" - 2
 
 "When the screen protector is on the phone and when I make calls the screen is black. When I take it off it is normal. I sure don't know why this is so, but I do not like what it does to my phone. I have an email into customer service to see why this is happening. It should work if it's recommended for these Jitterbug phones. I have spent all afternoon trying to resolve this and I am feeling very angry toward this whole wasted afternoon." - 4
 
@@ -170,7 +170,7 @@
 
 "Αντίο, κύριε. πίσω στο ριτζ, ο τόμι μάζεψε τα πράγματα του μηχανικά, τις σκέψεις του μακριά." - 2
 
-"Δείκτες επιτυχίας -- τα χρήματα είναι διαθέσιμα για την εφαρμογή καινοτόμων ατζέντες και πρότυπων σχεδίων." - 1
+"Δείκτες επιτυχίας τα χρήματα είναι διαθέσιμα για την εφαρμογή καινοτόμων ατζέντες και πρότυπων σχεδίων." - 1
 
 "Not strong enough to stay attached. Sending back." - 4
 
@@ -224,4 +224,4 @@
 
 "Από τα πραγματικά πράγματα, αλλά δεν το ηλικία." - 2
 
-"(η αμερικανική σύμβαση δεν είναι ακριβώς αυτό που οι Αμερικανοί δημοσιογράφοι επιτρέπεται να ενεργούν με τις προκαταλήψεις τους -- Οι στήλες ειδήσεων και ο χρόνος αέρα που αφιερώνεται στη μυγοπαγίδα δεν θα είχαν νόημα εκτός αν οι δημοσιογράφοι και οι συντάκτες πίστευαν τις κατηγορίες." - 2
+"(η αμερικανική σύμβαση δεν είναι ακριβώς αυτό που οι Αμερικανοί δημοσιογράφοι επιτρέπεται να ενεργούν με τις προκαταλήψεις τους Οι στήλες ειδήσεων και ο χρόνος αέρα που αφιερώνεται στη μυγοπαγίδα δεν θα είχαν νόημα εκτός αν οι δημοσιογράφοι και οι συντάκτες πίστευαν τις κατηγορίες." - 2
