@@ -44,41 +44,42 @@
 	
 	\section{Language Identification Results}
 	
-	The main questions about our dataset are:
+	Below we present graphs resulting from the language identification analysis on the crawled YouTube dataset.
+	
 	\begin{itemize}
-		\item How often is Greeklish spoken in circles of young and old people?
-		\item How much do Greek and English users use emojis in comments?
-		\item Do comments in Greeklish use emojis more often than comments in Greek?
-		\item Is there any trend towards using Greeklish in the recent years?
+		\item Figure \ref{fig::lang_dis} shows the distribution of languages in our dataset.
+		
+		\item Figure \ref{fig::emojis_dist} shows the amount of emojis used in each comment by comment language.
+		
+		\item Figure \ref{fig:length_dis} shows the length of comments for each language.
+		
+		\item Figure \ref{fig::timeseries.png} features a time-series plot on the observed languages by date.
 	\end{itemize}
-	
-	Below, we present supporting graphs.
-	
 	
 	
 	\begin{figure}[h!]
-		\includegraphics[width=8cm]{lang_dis.png}
+		\includegraphics[width=10cm]{lang_dis.png}
 		\centering
 		\caption{Language distribution in the crawled dataset.}
 		\label{fig::lang_dis}
 	\end{figure}
 	
 	\begin{figure}[h!]
-		\includegraphics[width=8cm]{emojis_dis.png}
+		\includegraphics[width=10cm]{emojis_dis.png}
 		\centering
 		\caption{Stacked plot of emoji usage by language.}
 		\label{fig::emojis_dist}
 	\end{figure}
 	
 	\begin{figure}[h!]
-		\includegraphics[width=8cm]{length_dis.png}
+		\includegraphics[width=10cm]{length_dis.png}
 		\centering
 		\caption{Length of comments by language, measured by characters.}
 		\label{fig:length_dis}
 	\end{figure}
 	
 	\begin{figure}[h!]
-		\includegraphics[width=8cm]{time_plot.png}
+		\includegraphics[width=10cm]{time_plot.png}
 		\centering
 		\caption{Number of comments by language for each day, running from 2017 to present.}
 		\label{fig::timeseries.png}
