@@ -39,7 +39,7 @@
 	\section{Introduction}
 	This report outlines results and conclusions drawn from the mechanical annotation of Greek and Greeklish YouTube comment data. The full report, detailing goals, data sources, methodology and implementation can be found at \url{https://github.com/dimits-exe/practical_data_science}.
 	
-	Our operational data have been collected by the top results of YouTube search for two categories: \textbf{Greek songs} and \textbf{Greek Gaming videos}. These categories represent two main demographics of the Greek online community: The older, middle-aged and the younger generations.
+	Our operational data have been collected by the top results of YouTube search for two categories: \textbf{Greek songs} and \textbf{Greek Gaming videos}. These categories represent two main demographics of the Greek online community: The older - middle-aged and the younger generations.
 	
 	
 	\section{Language Identification Results}
@@ -47,38 +47,39 @@
 	Below we present graphs resulting from the language identification analysis on the crawled YouTube dataset.
 	
 	\begin{itemize}
-		\item Figure \ref{fig::lang_dis} shows the distribution of languages in our dataset.
+		\item Figure \ref{fig::lang_dis} illustrates the distribution of languages in our YouTube dataset. Unfortunately, our classifier did not perform as expected, showing a smaller preference for Greek and Greeklish than anticipated. This discrepancy may be attributed to insufficient training data or a lack of a representative sample from the crawled posts.
 		
-		\item Figure \ref{fig::emojis_dist} shows the amount of emojis used in each comment by comment language.
+		\item Figure \ref{fig::emojis_dist} displays the number of emojis used in each comment, organized by comment language. Note that the plots are stacked, with each language on top of the previous one. To obtain the actual count for a specific language, deduct the count of emojis used in the previous language.
 		
-		\item Figure \ref{fig:length_dis} shows the length of comments for each language.
+		\item Figure \ref{fig:length_dis} showcases the distribution of comment lengths for each language. An outlier is observed in an English comment that reached an unusually long 1500 characters. In general, Greek posts appear shorter, while English and Greeklish dominate the longer tail of the distribution.
 		
-		\item Figure \ref{fig::timeseries.png} features a time-series plot on the observed languages by date.
+		\item Figure \ref{fig::timeseries.png} features a time-series plot detailing the observed languages over dates. All languages exhibit a similar trend, indicating a probable absence of a statistically significant pattern. Most of the crawled videos, appearing in the YouTube search tab, are likely both relevant and popular. This explains why the majority of them are from the timeframe of 2020-2023.
 	\end{itemize}
 	
 	
-	\begin{figure}[h!]
+	
+	\begin{figure}
 		\includegraphics[width=10cm]{lang_dis.png}
 		\centering
 		\caption{Language distribution in the crawled dataset.}
 		\label{fig::lang_dis}
 	\end{figure}
 	
-	\begin{figure}[h!]
+	\begin{figure}
 		\includegraphics[width=10cm]{emojis_dis.png}
 		\centering
 		\caption{Stacked plot of emoji usage by language.}
 		\label{fig::emojis_dist}
 	\end{figure}
 	
-	\begin{figure}[h!]
+	\begin{figure}
 		\includegraphics[width=10cm]{length_dis.png}
 		\centering
 		\caption{Length of comments by language, measured by characters.}
 		\label{fig:length_dis}
 	\end{figure}
 	
-	\begin{figure}[h!]
+	\begin{figure}
 		\includegraphics[width=10cm]{time_plot.png}
 		\centering
 		\caption{Number of comments by language for each day, running from 2017 to present.}
