@@ -1,0 +1,508 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1,T2A]{fontenc}
+\usepackage[greek, english]{babel}
+\usepackage{alphabeta}
+\usepackage{libertine}
+\usepackage{graphicx}
+\usepackage{biblatex}[sorting=nty] % sort alphabetically
+\usepackage[table]{xcolor}
+\usepackage{setspace}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+
+\pagenumbering{arabic}
+\onehalfspacing % Set line spacing to 1.5
+\graphicspath{ {./results/} }
+\addbibresource{refs.bib}
+
+\def\code#1{\texttt{#1}}
+
+\title{\Huge Supplemental Material Part 2: Prompting \\
+	\LARGE Practical Data Science: 2nd Project}
+
+\author{\Large  Tsirmpas Dimitris }
+
+\begin{document}
+	
+	
+	\maketitle
+	\begin{center}
+		\large Athens University of Economics and Business \\
+		\large MSc in Data Science
+		
+	\end{center}
+	
+	
+	\section{Introduction}
+	LLMs are powerful and versatile enough to many diverse tasks, provided we engineer the correct prompt for such a specific task.
+	The following report includes the prompts used to build a toxicity classifier, as well as the input prompts which were later used to build a traditional ML classifier. We used Chat-GPT for this task, as it's the most easily available model at this time. The model outputs can be found at \code{data/chatgpt\_annot.txt}.
+	
+	
+	\section{Original Prompt}
+	\textbf{The following prompt is responsible for building the LLM toxicity classifier. It features a role prompt, an explanation of the task, a 5-shot example and an output format prompt.} 
+	
+	\begin{verbatim}
+		You are a young educated student from Greece. You are tasked with annotating messages
+		 according to their toxicity level.
+		
+		You will be given a list of Youtube comments in Greek, Greeklish and English. 
+		Your job is to categorize their toxicity as: 
+		
+		1: Not Toxic
+		
+		2: Maybe Toxic
+		
+		3: Almost Toxic
+		
+		4: Almost certainly Toxic
+		
+		5: Certainly Toxic
+		
+		Examples:
+		
+		
+		Μπράβων Γιάννη είσαι ο καλύτερος youtuber εύχομαι να πετύχεις του στόχους σου και τα όνειρα σου -1
+		
+		Ο SOLIDUS SNAKE ΑΠΟ METAL GEAR ΣΤΟ AMOGUS - 1
+		
+		Comeback mou exoun lipsi oi palies kales stigmes sto game - 1
+		
+		pame ligo ypostirizoume support a creator:Xamogelasth !!!! - 1
+		
+		Se bleeps otan eimouna 4 xronon apo to little nightmares 1 Kai hello neighborhood lol - 1
+		
+		Ο φλύαρος έμαθε ότι η επιστήμη της μελέτης των εκφράσεων του προσώπου είναι σχετικά πριν από τη 
+		δεκαετία του 1960 , προφανώς , θεωρήθηκε μια άχρηστη επιχείρηση - 3
+		
+		ΡΕ ΠΑΙΔΙΑ ΝΤΡΟΠΗ ΛΙΓΟ ΕΧΕΙ ΓΥΝΑΙΚΑ ΚΑΙ ΠΑΙΔΙΑ ΔΗΛΑΔΗ ΕΛΕΟΣ - 4
+		
+		Mono cringe rip headphone users ones again - 4
+		
+		ο corki ειναι μακραν ο χειροτερος, στα voicelines του πεταει "ματια πλανα κι αυτια αεροπλανα"
+		 και "GTP! EPANALAMVANW GTP!!1!" - 5
+		
+		
+		
+		Follow strictly the Output Format:
+		
+		<sentence> - <annotation-score>
+		
+		
+	\end{verbatim}
+	
+	
+	\section{Input Prompts}
+	
+	\textbf{Input:}
+	\begin{verbatim}
+		
+		"Εαν σας άρεσε κάντε Like ρεεε μη ντρέπεστε!
+		
+		+1 όσοι είδαν το μπλουζάκι PDT
+		
+		p.s το AR το βάλαμε έτσι για συντομογραφία, εννοείται πως άλλο AR και άλλο τρίσφαιρο!"
+		
+		Φήμες λένε ότι ο Gianuba βάζει καρδούλες
+		
+		"ΤΟΣΑ ΤΕΛΕΙΑ ΒΙΝΤΕΟ ΘΑ ΚΑΝΕΙ Ο GIANOUBA22
+		
+		"Η φάση που ο gianuba 22 φοράει μπλούζα pdt nuera κλαίωείσαι απίστευτος πάμε δυνατά
+		
+		Συνέχισε την καλή δουλειά γιανναμπαα !!!!!! btw είσαι ότι καλύτερο 
+		
+		Τώρα πρόσεξα στο δεύτερο ματς ο Κοστής είχε διόπτρα (sniper)
+		
+		Γεια σου Γιάννη ωραίο βίντεο.  Συνέχισε την καλή δουλειά.  Είσαι ακαταμάχητος. 
+		
+		Πάντα νικητής ο Gianubas :-)
+		
+		την τελευταια φορα που γυρισες τον τροχο το 3 αντικειμενο που δεν μπορουσες να 
+		χρησιμοποιησεις ηταν AR και εσυ και ο teampls χρυσημποιησατε  AR και στην αρχη που πατησες 
+		το χεντιδι με το πιστολ στο slarpy  και στο τελος απο το drop
+		
+		Φίλε είσαι ο αγαπημένος μου youtuber επειδή όταν σε βλέπω σκάω στα γέλια και γενικά κάνει 
+		τέλειο edit αλλά εκτός από αυτά είσαι τέλειος
+		
+		Είσαι από τους καλύτερους Έλληνες YouTuber συνέχισε έτσι 
+		
+		Από τα καλύτερα βίντεο που εχεις κάνει
+		
+		Αν θες να ξανά κάνει τέτοιο βίντεο +1
+		
+		O kaliteros eise mpravo 
+		
+		Συνέχισε έτσι και θα γίνει ο καλύτερος YouTube στην Ελλάδα
+		
+		ΣΟΥΠΕΡ,ΤΕΛΙΟ,ΦΑΝΤΑΣΤΙΚΟ
+		
+		Όσο πάνε και δυσκολευουν τα challenge στον gianuba παλιά είχε κάνει το όχι chest και 
+		τώρα του έπεσα το ίδιο αναβαθμισμενο με ΚΟΛΙΛΕΣ
+		
+		Απλά τέλειο
+		
+		Εντωμεταξύ στο τελευταίο game χρησιμοποιείς AR
+		
+		Κάνε κιαλο τέτοιο challenge!!!!!!!!!!!!
+		
+		Στο δεύτερο game δεν έπρεπε να πάρεις AR γιατί πήρες αφού το έτυχε στον τροχό
+		
+		Το καλύτερο βίντεο που έχεις κανει
+		
+		Όποιος γυρίζει κερδίζει λολ
+		
+		Κανονικά δεν έπρεπε να πάρετε Aug γιατί θεοριτε και αυτό AR
+		
+		Στο δευτερο game  χρεισιμοποιησες ενα πρασινο burst ar που δεν επιτρεποταν λογο του τροχου
+		
+		Μου αρέσει ότι όταν ο Ιτσόνλη νίκησε τον Τίμπλιζ έπρεπε να φτάσει 100 χιλιάδες
+		 subscribers αλλά από ότι βλέπω ο Τίμπλυζ έφτασε πρώτος τους 100 χιλιάδες subscribers.
+		
+		Εισαι πολυ pro ρε φιλε και πολυ ωραιο βιντεο εκανες
+		
+		"Μου αρέσει που στο άλλο βίντεο με τον τροχό κΑι με τον αδερφό σου και μόνο για αυτό μπήκα
+		
+		Ρε πάλι την κάμερα ρε τρελέ!"
+	\end{verbatim}
+	
+	\textbf{Input:}
+	\begin{verbatim}
+		
+		Είναι 2 φορές full
+		
+		Η φαση που ειπε "w" και δεν επαθε κατι
+		
+		Το παιδί από το βίντεο
+		
+		Mapa ston afro chalenge
+		
+		Είπε το sweaty γλυκό έλεος.
+		
+		ΟΤΙ ΚΑΛΎΤΕΡΟ ΤΟ ΒΊΝΤΕΟ
+		
+		Gia ka8e aggliki lejh pou lew= MAPA STON AFRO !!!!!!!!
+		
+		Ναι κάνε 24 ώρες στο δασος
+		
+		3:30 eipe w kai den tpu riksate!!
+		
+		thn epomeni fora mila mono agglika xaxaxaxa teleio
+		
+		Τέλειο
+		
+		Υποτίθεται ήσουν εχθρός με τον Στέφανο όλο αυτό τόσο καιρό ήταν στημένο 
+		6:04 Χ; ΧΑΧΑΧΑΧΑ
+		
+		Gamhseee
+		
+		Μπράβο heitboss Που μίλησες το chalenge
+		
+		και πάλι στο fornaite είσαι pro
+		
+		Καλωσήρθατε στο heitboss
+		
+		BTW sto 6 Kai 55 eipe set
+		
+		Είσαι ο καλύτερος όλων των εποχών και με challenges εεε προκλήσεις συγγνώμη 
+		σε παρακαλώ κάνε μου like
+		
+		Προκάλεσε τον αδερφό σου
+		
+		Εγώ νόμιζα οτι έβλεπα τσόντα
+		
+		Eipe exei pesei sto w afros  kai eipe w alla den tou ereixe afro
+		
+		otk bro m πολυ γελειο
+		
+		Αρος 1+ αμα το θειμασε
+		
+		Το smg λέγεται υποπολυβόλο
+		
+		Ο αφρος τρωγεται;
+		
+		+1 οποίος Cringarei με το καλωςηηηηηηηηηηηηηηρθατε
+		
+		Best player
+		
+		Τελια
+		
+		to keno sta dontia sou einai megalutero apo to melon sou
+		
+		Μπράβο πολύ ωραίο βιντεάκι  και όποιος θέλει μπορεί να τσεκάρει το κανάλι μου 
+		όπου ανεβάζω βιντεάκια Fortnite
+		
+		Σιντουκη  έχει Έλληνας
+		
+		xaxaxaxa 2:00
+		
+		Ναι
+		
+		15:56 μόνο εγώ είδα πως το έγραψαν λάθος
+		
+		η σκάλα είναι με το C
+		
+		Klaio
+		
+		να το ξανακανετε
+		
+		mia lejh....VOICE CRACKS
+	\end{verbatim}
+	
+	\textbf{Input:}
+	\begin{verbatim}
+		
+		Είχε κάνει μια πολύ αξιοσημείωτη ανάρρωση , και ο νεμα δεν φαινόταν καν έκπληκτος.
+		
+		Great piece for the cost. It's a nice sturdy camo but also light enough to wear in 
+		the summer/fall with quarter sleeves. I plan on spicing it up with pins and patches 
+		maybe a little sequin.
+		
+		Το το πρόβλημα του ψυχαναγκαστική τζόγου , κατηγορώντας το για ψυχολογική ανωμαλία και 
+		όχι για βιομηχανία της βιομηχανίας .
+		
+		Η δουλεία μειώνεται
+		
+		I was pleased to receive this product in a timely fashion and the price 11.00 and some 
+		change was a reasonable price for someone like myself who is testing this product out 
+		for the first time. Some people say that sea moss basically has no taste when you mix 
+		it in a smoothie and such.. Not so in my opinion I mixed mine and can still detect it!
+		 I think it would be better in something like a soup cuz it's very sea weedy and fishy tasting.
+		  Once I learn how to use it I would probably purchase it again.
+		
+		Have not tried it yet as it did not come with a manual for operating instructions.
+		
+		I'm very pleased with the sign, however, I wish it came a size bigger. 5x7 would have been 
+		perfect for where I'm intending to locate it, but the 4x6 will do.
+		
+		Absolutely horrendous delivery! Did not arrive even near the date it was supposed to, and to 
+		TOP IT OFF the day it said it was delivered to my mail box, it was not there. Horrendous 
+		horrendous horrendous. If I could give less stars I would.
+		
+		Product as described
+		
+		Η πιθανή τάση , όταν εσείς , θα είστε για πολλούς σκοτεινούς και semiobscure δημοσιογράφους
+		 για να δείτε το κοινό τους να μεγαλώνει , ενώ οι λίγοι πλούσιοι και διάσημοι δημοσιογράφοι 
+		 θα δουν το κοινό τους να συρρικνώνεται .
+		
+		The boxes are great but came missing one lid!
+		
+		Για ποιο πράγμα ;
+		
+		They fit great at the waist band. But it says long legged and they are not. they are real
+		short and ride up very easily .. very uncomfortable because I have to keep readjusting them
+		
+		When the screen protector is on the phone and when I make calls the screen is black. 
+		When I take it off it is normal. I sure don't know why this is so, but I do not like 
+		what it does to my phone. I have an email into customer service to see why this is happening. 
+		It should work if it's recommended for these Jitterbug phones. I have spent all afternoon trying 
+		to resolve this and I am feeling very angry toward this whole wasted afternoon.
+		
+		His Hammers Slammer s helped me get an understanding of what I was feeling on my return from
+		 Vietnam. I wrote my only fan letter to thank him for the help. He continues to write about
+		  real people and combat. Thanks again.
+		
+		For a company that bills itself as environmentally friendly it is obnoxious that they don't
+		 offer larger refill sizes. What a waste of plastic. That said, the product itself, the soap is great.
+		
+		This product did absolutely nothing. It didn't catch any fur what so ever (even when washing the dog blanket)
+		
+		Το χειρότερο απ ' όλα , η επιστήμη της μαγείας υποφέρει .
+		
+		Αντίο , κύριε. πίσω στο ριτζ , ο τόμι μάζεψε τα πράγματα του μηχανικά , τις σκέψεις του μακριά .
+		
+		Δείκτες επιτυχίας -- τα χρήματα είναι διαθέσιμα για την εφαρμογή καινοτόμων ατζέντες και πρότυπων σχεδίων .
+		
+		Not strong enough to say attached. Sending back.
+		
+		Υπάρχουν τόσα ατυχήματα με παιδιά που κατά λάθος παίρνουν όπλα .
+		
+		I never received this product and had no communications back to me either. Not a happy shopper
+		
+		Had to return these and order directly from GE.
+		
+		This is a piece of junk. I opened product, put in new batteries, put on spinner/butterfly top,
+		 pushed button, and nothing. This product was dead on arrival. Will be returning.
+		
+		Είσαι μπλεγμένος σε όλα αυτά τα σχέδια ;
+		
+		Not the best but gets the job done
+		
+		This book was very graphic in a sick way. Might be what some people like, but I don't. 
+		It would have been better for me if I had not read it.
+		
+		Οι καταδύσεις και οι καταδύσεις είναι ιδιαίτερα ικανοποιητικό σε έναν αριθμό απομονωμένων 
+		κολπίσκοι και σε κοντινές νησίδες , και τα σκάφη που θα σας πάνε εκεί είναι άμεσα διαθέσιμα .
+		
+		Οι καουμπόηδες εκεί είχαν τέσσερα εισιτήρια .
+		
+		Μια αόριστη υποψία για κάθε ένα και όλα γέμισαν το μυαλό μου .
+		
+		Ωστόσο , δεν υπάρχουν ισχυρές αποδείξεις ότι έζησε ποτέ εδώ .
+		
+		Αυτό θα έδινε στα δύο μέρη την ευκαιρία να μάθουν ο ένας για τον άλλο .
+		
+		Everything was great,no problem with delivery etc...Ordered a few other things,outside the
+		 packaging I'm extremely pleased with the products...Will def be using again.
+		
+		Great case and great price!
+		
+		Αυτός είναι ένας πολύ αποτελεσματικός τρόπος για να μάθει ο κόσμος ότι είμαστε εκεί .
+		από το ανατολικό Τέξας αυτό ήταν αλήθεια .
+		
+		Αν είσαι ο τύπος της ιππασίας , τότε αυτός είναι ένας καλός τρόπος να δεις την εκκεντρική 
+		πλευρά της ίμπιζα το άθικτο εσωτερικό όπου η ζωή είναι ακόμα αναζωογονητικά απλή .
+		
+		The buttons are really hard to press on this watch. My husband warned me that it was a 
+		small watch and the buttons would be hard to push. It's almost impossible to change or 
+		use the settings. If I had to do it over I would pick a larger watch with bigger buttons.
+		
+		Γιατί δεν μπορούσε απλά να είναι ο καμ φονγκ ;
+		
+		I ordered 2sizes because ordering over the Internet you don't know which is going to fit.
+		thats why when I ordered 2 more shirts a different color andI then knew which size to get.
+		 I didn't like the dark wine color so I bleached them to get the colored I wanted.
+		
+		The sweater would be better if it had a hole for the harness to attach to leash.
+		
+		Το έγγραφο αυτό συνοψίζει τις εσωτερικές πρακτικές της διαχείρισης της lsc όσον αφορά την 
+		πρόσβαση σε πληροφορίες που περιέχονται σε αρχεία που διατηρούνται από τους αποδέκτες της lsc .
+		
+		The quality of the "leather" is definitely not like the photo shows. It is obvious to me 
+		that this is not distressed "leather". The magnet on the latch is not strong and will not
+		hold it shut. I will be returning this.
+		
+		not a reliable power source, it damaged my phone's battery and almost set ablaze my room
+		
+		Από τα πραγματικά πράγματα , αλλά δεν το ηλικία .
+		
+		( η αμερικανική σύμβαση δεν είναι ακριβώς αυτό που οι Αμερικανοί δημοσιογράφοι επιτρέπεται να
+		 ενεργούν με τις προκαταλήψεις τους -- Οι στήλες ειδήσεων και ο χρόνος αέρα που αφιερώνεται 
+		 στη μυγοπαγίδα δεν θα είχαν νόημα εκτός αν οι δημοσιογράφοι και οι συντάκτες πίστευαν τις κατηγορίες .
+		
+		Looks good, like a nice piece of furniture. Sturdy, drawers roll nicely. So much better
+		 than the old metal cabinet we had before. Nice to keep paperwork you want to hold onto organized.
+		
+		Όταν ο θάλαμος της άφεση γέμισε με τις κραυγές των βασάνισε αιρετικοί , 
+		ο σάιμον έκλεισε τα μάτια του με φόβο , και ο dobrava έπιασε δουλειά .
+	\end{verbatim}
+	
+	\textbf{Input:}
+	\begin{verbatim}
+		Ακριβώς όπως το κουάνζα , που δημιουργήθηκε το 1966 , έχει επιστρέψει πολλούς μαύρους Αμερικανούς στην αφρικανική κληρονομιά τους , έτσι το χάνουκα βοήθησε να δεθούν οι Εβραίοι με την κληρονομιά τους και σε ορισμένες περιπτώσεις τους έφερε πίσω στο μαντρί .
+		
+		I could have given a zero star. The product is a waste of money and the service is pathetic, I accidentally ordered the same product twice and they would not allow returns.
+		
+		it was ok - i waited long time to see how pest control stay away.. its still come around every once a while - i wouldnt buy those items again.
+		
+		This bra is really comfortable and fit as expected. The only down side is it's underwire. I knew this when I ordered it and it's not bad normally but if you become engorged it can be more painful (no more so than any other underwire). It's each to nurse with and feels like a much more expensive bra than it was. The slight padding is nice. Very happy with this bra and love that I got it in 2 days.
+		
+		lasted six months of very light use before the fuse blew. Apparently this is a common problem with this model, and repair is costly. Just stopped working in the middle of cooking a quiche. NOT happy at all. Won't buy another one.
+		
+		Είχε κάνει μια πολύ αξιοσημείωτη ανάρρωση , και ο νεμα δεν φαινόταν καν έκπληκτος .
+		
+		Great piece for the cost. It's a nice sturdy camo but also light enough to wear in the summer/fall with quarter sleeves. I plan on spicing it up with pins and patches maybe a little sequin.
+		
+		Το το πρόβλημα του ψυχαναγκαστική τζόγου , κατηγορώντας το για ψυχολογική ανωμαλία και όχι για βιομηχανία της βιομηχανίας .
+		
+		Η δουλεία μειώνεται
+		
+		I was pleased to receive this product in a timely fashion and the price 11.00 and some change was a reasonable price for someone like myself who is testing this product out for the first time. Some people say that sea moss basically has no taste when you mix it in a smoothie and such.. Not so in my opinion I mixed mine and can still detect it! I think it would be better in something like a soup cuz it's very sea weedy and fishy tasting. Once I learn how to use it I would probably purchase it again.
+		
+		Have not tried it yet as it did not come with a manual for operating instructions.
+		
+		I'm very pleased with the sign, however, I wish it came a size bigger. 5x7 would have been perfect for where I'm intending to locate it, but the 4x6 will do.
+		
+		Absolutely horrendous delivery! Did not arrive even near the date it was supposed to, and to TOP IT OFF the day it said it was delivered to my mail box, it was not there. Horrendous horrendous horrendous. If I could give less stars I would.
+		
+		Product as described
+		
+		Η πιθανή τάση , όταν εσείς , θα είστε για πολλούς σκοτεινούς και semiobscure δημοσιογράφους για να δείτε το κοινό τους να μεγαλώνει , ενώ οι λίγοι πλούσιοι και διάσημοι δημοσιογράφοι θα δουν το κοινό τους να συρρικνώνεται .
+		
+		The boxes are great but came missing one lid!
+		Για ποιο πράγμα ;
+		
+		They fit great at the waist band. But it says long legged and they are not. they are real short and ride up very easily .. very uncomfortable because I have to keep readjusting them
+		
+		When the screen protector is on the phone and when I make calls the screen is black. When I take it off it is normal. I sure don't know why this is so, but I do not like what it does to my phone. I have an email into customer service to see why this is happening. It should work if it's recommended for these Jitterbug phones. I have spent all afternoon trying to resolve this and I am feeli
+		
+		His Hammers Slammer s helped me get an understanding of what I was feeling on my return from Vietnam. I wrote my only fan letter to thank him for the help. He continues to write about real people and combat. Thanks again.
+		
+		For a company that bills itself as environmentally friendly it is obnoxious that they don't offer larger refill sizes. What a waste of plastic. That said, the product itself, the soap is great.
+		
+		This product did absolutely nothing. It didn't catch any fur what so ever (even when washing the dog blanket)
+		Το χειρότερο απ ' όλα , η επιστήμη της μαγείας υποφέρει .
+		
+		Αντίο , κύριε. πίσω στο ριτζ , ο τόμι μάζεψε τα πράγματα του μηχανικά , τις σκέψεις του μακριά .
+		Δείκτες επιτυχίας -- τα χρήματα είναι διαθέσιμα για την εφαρμογή καινοτόμων ατζέντες και πρότυπων σχεδίων .
+		Not strong enough to say attached. Sending back.
+		Υπάρχουν τόσα ατυχήματα με παιδιά που κατά λάθος παίρνουν όπλα .
+		
+		I never received this product and had no communications back to me either. Not a happy shopper
+		
+		Had to return these and order directly from GE.
+		This is a piece of junk. I opened product, put in new batteries, put on spinner/butterfly top, pushed button, and nothing. This product was dead on arrival. Will be returning.
+		
+		Είσαι μπλεγμένος σε όλα αυτά τα σχέδια ;
+		
+		Not the best but gets the job done
+		
+		This book was very graphic in a sick way. Might be what some people like, but I don't. It would have been better for me if I had not read it.
+		
+		Οι καταδύσεις και οι καταδύσεις είναι ιδιαίτερα ικανοποιητικό σε έναν αριθμό απομονωμένων κολπίσκοι και σε κοντινές νησίδες , και τα σκάφη που θα σας πάνε εκεί είναι άμεσα διαθέσιμα .
+		
+		Οι καουμπόηδες εκεί είχαν τέσσερα εισιτήρια .
+		Μια αόριστη υποψία για κάθε ένα και όλα γέμισαν το μυαλό μου .
+		
+		Ωστόσο , δεν υπάρχουν ισχυρές αποδείξεις ότι έζησε ποτέ εδώ .
+		
+		Αυτό θα έδινε στα δύο μέρη την ευκαιρία να μάθουν ο ένας για τον άλλο .
+		
+		Everything was great,no problem with delivery etc...Ordered a few other things,outside the packaging I'm extremely pleased with the products...Will def be using again.
+		
+		Great case and great price!
+		
+		Αυτός είναι ένας πολύ αποτελεσματικός τρόπος για να μάθει ο κόσμος ότι είμαστε εκεί .
+	\end{verbatim}
+	
+	\textbf{Input}
+	\begin{verbatim}
+		kai egw lordaeron twra tha ksekiniso sto icecrown eexw
+		
+		kai egw alla ton psilo barieme an thes dose in game name na ksana ksekinisoume mazi an thes
+		
+		'Έχουμε ελληνικό guild που ονομάζετε Ravens δεν είναι τίποτα σπουδαίο αλλά ένα 10αρι το γεμίζουμε 
+		
+		geia sas paidia epeidh vlepw pos imaste arketa atoma pou psaxnoume gia allous ellhnes as stilei edw opoios thelie na kanoume mia arxi ston x1 h x7  krima einai na pezoume monoi mas perimeno apantisi :D
+		
+		RIP , to guild einai pleon Social.
+		
+		Kalhspera eimai palios paixtis apo frostwolf (Cata) otan o Warmane legotan Molten WoW kai psaxnw atoma pou pezame mazi To onomamou htan Hlion
+		
+		an einai dynaton
+		
+		opios exei elliniko guild as mou stili mail sto game gia na mpoume ego kai ali 3 fili mou 
+		
+		To name tis guild aderfe?
+		
+		Γνωρίζει κανείς εάν το Rare mob του Cataclysm Αeonaxx, υπάρχει;
+		
+		Γεια σας..Πρόκειται να κάνω μια guild οποίος θέλει και ενδιαφέρετε ας μου στείλει η ας κάνει ένα reply
+		
+		Ψάξτε στο insomnia το θέμα για την κάρτα Revolut - είναι mastercard και θα μπορείτε να κάνετε αγορές άνετακ εδώ κ οπουδήποτε αλλού χωρίς τους περιορισμούς των capitals.
+		
+		Ψάχνουμε άτομα για raid Παρασκευή 9:00 10ρια - Σάββατο 9:00 25ρια normals/hc.
+		
+		<Essence> einai Ellhniko End Game Guild.Psaxnoume gia end game paixtes me 6.2+ gear kai alts.Progress:Icc 25 Hc 12/12-Rs 25 Hc 1/1-Togc 25 50/50.(Horde side).Raid time:20.00 Wra Ellados/Discord/Dkp.
+		
+		Mipos paizate ka8olou ston palio Neltharion prin to molt-down? Yphrxe mia <Greek Heroes> guild ekei, o paixths pou eixa mesa legotan Papandreou, argotera Chaosocial.
+		
+		8a apanthsei kaneis ti fasi?
+		
+		Se Horde i alliance tha einai to guild ;
+		
+		Eiparxei kanena active elliniko guild apo pleura horde ;
+		
+		tha paiksei kaneis sto kainourgio realm? an pshneste peite na arxhsoume parea 
+		
+	\end{verbatim}
+\end{document}
