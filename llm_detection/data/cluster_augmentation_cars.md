@@ -3578,3 +3578,1845 @@ The implications of this shift extend beyond environmental benefits. While it po
 
 In conclusion, limiting car usage is a multifaceted initiative with environmental, cultural, and economic implications. The examples from Vauban, Paris, Bogota, and the broader trend observed in the United States all point to a global movement seeking alternatives to the car-centric suburban lifestyle. This shift is essential for mitigating the environmental impact of cars, reducing congestion, and redefining how communities approach transportation in the 21st century.
 
+# Limiting Car Usage Revolution
+
+## You
+User
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+All across the globe, a revolutionary idea is being set in motion. The idea of essentially banning cars from the streets has sparked as much interest as it has critics. The automotive industry has been booming since World War 2, and although the positive effects of cars can be seen in our daily lives, we seldom take into consideration of the negative impacts of cars. Effects such as pollution, traffic, and cost have impacted our lives as automotive users, even if we have not realized it.
+
+Pollution is one of the primary concerns of a world that is constantly driving, yet it is something people hardly take into account when driving. In theory that is understandable, considering the last thing a person is thinking about when they're driving is what their car is spitting out into the atmosphere. However pollution doesn't go unnoticed for long. For example, the city of Paris, France enforced a partial driving ban in order to decrease the almost record breaking pollution across the city, stating, "The smog rivaled Beijing, China, which is known as one of the most polluted cities in the world." The smog did clear from the city and previous driving laws were reinstated, however this shows how car pollution has a negative impact on the world around us.
+
+Another negative impact of driving is traffic. Traffic is a driver's worst nightmare, and it affects all of us at some point in our lives. In Bogota, Columbia, citizens participated in a drivingfree day, where everyone was encouraged to either hike, bike, skate, or use public transportation in order to reach their destination. This event, in which millions of Colombians participated, was reportedly "leaving the streets of this capital city eerily devoid of traffic jams." This program left a positive mark on the city of Bogota, and will hopefully soon spread to other countries, reducing crowded, traffic filled streets around the world.
+
+The world runs on money, just ask any Wall Street broker. This is a paradox concerning both car owners and people looking to purchase a car. The question remains, if we're all trying to save money, why spend thousands of dollars on a costly car? According to a census taken in 2013, "Part of the explanation certainly lies in the recession, because cashstrapped Americans could not afford cars, and the unemployed weren't going to work anyway." This shows that the number of people buying cars is steadily decreasing. Another costly problem of cars is fuel. Buying gasoline for your car every week can get incredibly costly, especially when driving a large truck or sports car. This shows how the cost of cars can have a negative impact on our lives.
+
+In conclusion, the use of cars is steadily declining. Cars just aren't a very positive motive for transportation anymore considering the effects of pollution, traffic, and cost that cars produce.
+
+EXAMPLE 2:
+Millions of people use cars in their everyday lives whether its driving to work, school or even the supermarket. With the amount of people on the streets on a daily basis, its not surprising that there is a major traffic issue in Miami. Most people dont realise how big of an issue this truly is because in reality they just need to get to and from work. I'm here to inform you about the beneficial alternatives to driving everywhere you go.
+
+Whether going to work or driving your kids to soccer practice, a way of transportation is a must. Most people choose the "easy" way out and just hop in their brand new luxury cars. But what if I told you there is an easier way, a more efficient way? All around Miami, there are metro rail stations. These stations are clean, safe, and not to mention useful. There are busses, troll's, and even metro movers that can take you all around the city. the trains, busses, troll's and metro movers all run on a schedule. An easy way to limit your gas bill, pollution and time wasted in traffic is to simply set up a route to where you need to go and catch the appropriate mose of transportation.
+
+Time is always on peoples mind, whether you have enough time to go shopping for a new dress or maybe stop by grandmas house. all things require time. Everyday millions of Americans spend hours stuck in traffic due to rushhour. This means less time spent with family anymore time bonding with the annoying car horns constantly beeping. If you could switch to another mode of transportation you could cut time commuting in half. The Metro rail avoided all traffic regardless and if more people start thinking like this then the bus might soon be avoidingall traffic too. Heidrun Walter, a media trainer and mother of two says "When i had a car i was always tense. I'm much happier this way." Everyday she walks verdant streets listening to the delightful sound of people chatting and children playing, something she was unable to appreciate with her windows rolled up as she drove around town.
+
+So many fuel consuming vehicles on the street on a daily basis can't be too great for our environment, don't you think? It isnt, all this pollution is causing a nasty smog all over the world, some places more than others. Paris tends to have more smog than Europe but not too long ago, Paris had 147 micrograms or particulate matter per cubic meter compared to 114 in Brussels. This smog makes it difficult for dilivery companies to complete their jobs. This smog isnt good for us either just think about what you are breathing.
+
+## ChatGPT
+In recent years, a revolutionary idea has gained traction across the globe: limiting car usage for a more sustainable and efficient society. The advantages of such a shift are evident in various communities and cities worldwide, where innovative approaches to transportation have been embraced. This essay explores the benefits of limiting car usage, drawing insights from diverse sources that highlight the environmental, economic, and societal advantages of this emerging trend.
+
+One of the primary concerns associated with widespread car usage is pollution, a critical issue addressed by communities implementing car-free initiatives. For instance, in Paris, faced with near-record pollution levels, authorities enforced a partial driving ban, resulting in a significant reduction in congestion and improved air quality. The negative impact of car emissions on the environment is a global concern, with cars responsible for a substantial percentage of greenhouse gas emissions in Europe and the United States.
+
+Traffic congestion, another consequence of excessive car usage, plagues cities around the world, affecting both the environment and individuals' quality of life. The success of car-free initiatives is exemplified in Bogota, Colombia, where a car-free day led to a 60 percent reduction in congestion, demonstrating the potential for alternative transportation modes to alleviate traffic-related issues.
+
+Beyond environmental concerns, limiting car usage can have positive economic implications. The cost associated with car ownership, including expenses for fuel, maintenance, and parking, can be a significant financial burden. With fewer individuals purchasing cars, as observed in the United States during the recession, there is a potential shift in consumer behavior that aligns with the principles of sustainable living and economic prudence.
+
+Moreover, the decline in car ownership is indicative of a cultural shift, with younger generations exhibiting less interest in owning cars compared to previous decades. Factors such as advancements in technology, the rise of telecommuting, and the availability of alternative transportation options contribute to this shift. As the trend continues, there may be a reduced impact on carbon emissions and a transformation in the way societies view personal vehicle ownership.
+
+In conclusion, limiting car usage emerges as a multifaceted solution to address environmental, economic, and societal challenges associated with widespread car dependency. Insights from various global initiatives, such as car-free days in Bogota and pollution-driven driving bans in Paris, underscore the positive impacts of alternative transportation methods. As communities explore and adopt innovative approaches to urban planning, the advantages of reducing reliance on cars become increasingly apparent, paving the way for a more sustainable and interconnected future.
+
+## You
+User
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+All across the globe, a revolutionary idea is being set in motion. The idea of essentially banning cars from the streets has sparked as much interest as it has critics. The automotive industry has been booming since World War 2, and although the positive effects of cars can be seen in our daily lives, we seldom take into consideration of the negative impacts of cars. Effects such as pollution, traffic, and cost have impacted our lives as automotive users, even if we have not realized it.
+
+Pollution is one of the primary concerns of a world that is constantly driving, yet it is something people hardly take into account when driving. In theory that is understandable, considering the last thing a person is thinking about when they're driving is what their car is spitting out into the atmosphere. However pollution doesn't go unnoticed for long. For example, the city of Paris, France enforced a partial driving ban in order to decrease the almost record breaking pollution across the city, stating, "The smog rivaled Beijing, China, which is known as one of the most polluted cities in the world." The smog did clear from the city and previous driving laws were reinstated, however this shows how car pollution has a negative impact on the world around us.
+
+Another negative impact of driving is traffic. Traffic is a driver's worst nightmare, and it affects all of us at some point in our lives. In Bogota, Columbia, citizens participated in a drivingfree day, where everyone was encouraged to either hike, bike, skate, or use public transportation in order to reach their destination. This event, in which millions of Colombians participated, was reportedly "leaving the streets of this capital city eerily devoid of traffic jams." This program left a positive mark on the city of Bogota, and will hopefully soon spread to other countries, reducing crowded, traffic filled streets around the world.
+
+The world runs on money, just ask any Wall Street broker. This is a paradox concerning both car owners and people looking to purchase a car. The question remains, if we're all trying to save money, why spend thousands of dollars on a costly car? According to a census taken in 2013, "Part of the explanation certainly lies in the recession, because cashstrapped Americans could not afford cars, and the unemployed weren't going to work anyway." This shows that the number of people buying cars is steadily decreasing. Another costly problem of cars is fuel. Buying gasoline for your car every week can get incredibly costly, especially when driving a large truck or sports car. This shows how the cost of cars can have a negative impact on our lives.
+
+In conclusion, the use of cars is steadily declining. Cars just aren't a very positive motive for transportation anymore considering the effects of pollution, traffic, and cost that cars produce.
+
+EXAMPLE 2:
+Millions of people use cars in their everyday lives whether its driving to work, school or even the supermarket. With the amount of people on the streets on a daily basis, its not surprising that there is a major traffic issue in Miami. Most people dont realise how big of an issue this truly is because in reality they just need to get to and from work. I'm here to inform you about the beneficial alternatives to driving everywhere you go.
+
+Whether going to work or driving your kids to soccer practice, a way of transportation is a must. Most people choose the "easy" way out and just hop in their brand new luxury cars. But what if I told you there is an easier way, a more efficient way? All around Miami, there are metro rail stations. These stations are clean, safe, and not to mention useful. There are busses, troll's, and even metro movers that can take you all around the city. the trains, busses, troll's and metro movers all run on a schedule. An easy way to limit your gas bill, pollution and time wasted in traffic is to simply set up a route to where you need to go and catch the appropriate mose of transportation.
+
+Time is always on peoples mind, whether you have enough time to go shopping for a new dress or maybe stop by grandmas house. all things require time. Everyday millions of Americans spend hours stuck in traffic due to rushhour. This means less time spent with family anymore time bonding with the annoying car horns constantly beeping. If you could switch to another mode of transportation you could cut time commuting in half. The Metro rail avoided all traffic regardless and if more people start thinking like this then the bus might soon be avoidingall traffic too. Heidrun Walter, a media trainer and mother of two says "When i had a car i was always tense. I'm much happier this way." Everyday she walks verdant streets listening to the delightful sound of people chatting and children playing, something she was unable to appreciate with her windows rolled up as she drove around town.
+
+So many fuel consuming vehicles on the street on a daily basis can't be too great for our environment, don't you think? It isnt, all this pollution is causing a nasty smog all over the world, some places more than others. Paris tends to have more smog than Europe but not too long ago, Paris had 147 micrograms or particulate matter per cubic meter compared to 114 in Brussels. This smog makes it difficult for dilivery companies to complete their jobs. This smog isnt good for us either just think about what you are breathing.
+
+## ChatGPT
+In today's rapidly changing world, where urbanization and environmental concerns are at the forefront, the idea of limiting car usage is gaining momentum. As exemplified by innovative communities such as Vauban in Germany, a suburb where car ownership is allowed but restricted, and Paris, which enforced a partial driving ban to combat pollution, these initiatives present a compelling case for reconsidering our reliance on cars.
+
+One of the primary advantages of limiting car usage is the positive impact on the environment, particularly in reducing greenhouse gas emissions. As highlighted in the passage, passenger cars contribute significantly to emissions, with 12 percent in Europe and up to 50 percent in certain car-intensive areas in the United States. By adopting a model like Vauban, where car ownership is discouraged and public transportation is emphasized, we can make substantial strides in minimizing our carbon footprint and mitigating the effects of climate change.
+
+Another pressing issue that limiting car usage addresses is the problem of traffic congestion. The car-free day in Bogota, Colombia, serves as a successful example of how alternative transportation methods, such as buses and bicycles, can alleviate traffic jams. In a city of 7 million, the streets were reported to be "eerily devoid of traffic jams," showcasing the potential for reducing congestion and making urban areas more navigable for everyone.
+
+Additionally, the economic benefits of limiting car usage should not be overlooked. As seen in the United States during the recession, when Americans faced financial constraints, car ownership and miles driven per person decreased. This not only reflects a shift in consumer behavior but also has positive implications for reducing overall transportation costs and dependence on expensive, fuel-consuming vehicles.
+
+Furthermore, the trend of declining car ownership and driving habits, as discussed in "The End of Car Culture," suggests a cultural shift. Factors such as the rise of telecommuting, shared transportation services, and a renewed interest in city living contribute to this transformation. This shift not only aligns with President Obama's goals to curb greenhouse gas emissions but also prompts car manufacturers to reconsider their business models, focusing on mobility beyond personal vehicles.
+
+In conclusion, limiting car usage emerges as a multifaceted solution addressing environmental, economic, and cultural concerns. As demonstrated by various global initiatives, from car-free days to innovative suburban planning, reevaluating our dependence on cars paves the way for a more sustainable and efficient future. By embracing alternative modes of transportation and fostering a cultural shift, we can create communities that are not only car-reduced but also more livable, eco-friendly, and economically viable.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+All across the globe, a revolutionary idea is being set in motion. The idea of essentially banning cars from the streets has sparked as much interest as it has critics. The automotive industry has been booming since World War 2, and although the positive effects of cars can be seen in our daily lives, we seldom take into consideration of the negative impacts of cars. Effects such as pollution, traffic, and cost have impacted our lives as automotive users, even if we have not realized it.
+
+Pollution is one of the primary concerns of a world that is constantly driving, yet it is something people hardly take into account when driving. In theory that is understandable, considering the last thing a person is thinking about when they're driving is what their car is spitting out into the atmosphere. However pollution doesn't go unnoticed for long. For example, the city of Paris, France enforced a partial driving ban in order to decrease the almost record breaking pollution across the city, stating, "The smog rivaled Beijing, China, which is known as one of the most polluted cities in the world." The smog did clear from the city and previous driving laws were reinstated, however this shows how car pollution has a negative impact on the world around us.
+
+Another negative impact of driving is traffic. Traffic is a driver's worst nightmare, and it affects all of us at some point in our lives. In Bogota, Columbia, citizens participated in a drivingfree day, where everyone was encouraged to either hike, bike, skate, or use public transportation in order to reach their destination. This event, in which millions of Colombians participated, was reportedly "leaving the streets of this capital city eerily devoid of traffic jams." This program left a positive mark on the city of Bogota, and will hopefully soon spread to other countries, reducing crowded, traffic filled streets around the world.
+
+The world runs on money, just ask any Wall Street broker. This is a paradox concerning both car owners and people looking to purchase a car. The question remains, if we're all trying to save money, why spend thousands of dollars on a costly car? According to a census taken in 2013, "Part of the explanation certainly lies in the recession, because cashstrapped Americans could not afford cars, and the unemployed weren't going to work anyway." This shows that the number of people buying cars is steadily decreasing. Another costly problem of cars is fuel. Buying gasoline for your car every week can get incredibly costly, especially when driving a large truck or sports car. This shows how the cost of cars can have a negative impact on our lives.
+
+In conclusion, the use of cars is steadily declining. Cars just aren't a very positive motive for transportation anymore considering the effects of pollution, traffic, and cost that cars produce.
+
+EXAMPLE 2:
+Millions of people use cars in their everyday lives whether its driving to work, school or even the supermarket. With the amount of people on the streets on a daily basis, its not surprising that there is a major traffic issue in Miami. Most people dont realise how big of an issue this truly is because in reality they just need to get to and from work. I'm here to inform you about the beneficial alternatives to driving everywhere you go.
+
+Whether going to work or driving your kids to soccer practice, a way of transportation is a must. Most people choose the "easy" way out and just hop in their brand new luxury cars. But what if I told you there is an easier way, a more efficient way? All around Miami, there are metro rail stations. These stations are clean, safe, and not to mention useful. There are busses, troll's, and even metro movers that can take you all around the city. the trains, busses, troll's and metro movers all run on a schedule. An easy way to limit your gas bill, pollution and time wasted in traffic is to simply set up a route to where you need to go and catch the appropriate mose of transportation.
+
+Time is always on peoples mind, whether you have enough time to go shopping for a new dress or maybe stop by grandmas house. all things require time. Everyday millions of Americans spend hours stuck in traffic due to rushhour. This means less time spent with family anymore time bonding with the annoying car horns constantly beeping. If you could switch to another mode of transportation you could cut time commuting in half. The Metro rail avoided all traffic regardless and if more people start thinking like this then the bus might soon be avoidingall traffic too. Heidrun Walter, a media trainer and mother of two says "When i had a car i was always tense. I'm much happier this way." Everyday she walks verdant streets listening to the delightful sound of people chatting and children playing, something she was unable to appreciate with her windows rolled up as she drove around town.
+
+So many fuel consuming vehicles on the street on a daily basis can't be too great for our environment, don't you think? It isnt, all this pollution is causing a nasty smog all over the world, some places more than others. Paris tends to have more smog than Europe but not too long ago, Paris had 147 micrograms or particulate matter per cubic meter compared to 114 in Brussels. This smog makes it difficult for dilivery companies to complete their jobs. This smog isnt good for us either just think about what you are breathing.
+
+## ChatGPT
+In an era dominated by the convenience and ubiquity of automobiles, a groundbreaking concept is emerging globally—one that challenges the very essence of our car-centric culture. The idea of limiting car usage, as exemplified by innovative experiments in places like Vauban, Germany, heralds a future where suburban life becomes synonymous with reduced dependence on cars. This revolutionary shift, often referred to as "smart planning," holds numerous advantages that extend beyond individual lifestyle choices.
+
+First and foremost, the limitation of car usage addresses a pressing concern that affects every corner of the globe—environmental pollution. Paris, France, faced with near-record pollution levels, resorted to a partial driving ban, showcasing the immediate need to curb emissions from vehicular traffic. Similarly, the Colombian capital, Bogota, implemented a car-free day, demonstrating that alternative modes of transportation could alleviate the burden of smog and promote a healthier urban environment.
+
+Traffic congestion, a perennial woe for commuters worldwide, is another critical issue that limiting car usage seeks to address. The success of the car-free day in Bogota, where millions of Colombians opted for alternative transportation, resulted in a 60 percent reduction in congestion. This not only highlights the positive impact on traffic flow but also underscores the potential for widespread adoption of such initiatives to ease the daily grind of commuters.
+
+Financial considerations play a significant role in the shift away from car-centric living. The economic burden of car ownership, with costs ranging from purchasing to fuel, is a tangible deterrent for many. The aftermath of the recession in the United States witnessed a decline in car purchases, indicating a reevaluation of priorities and financial prudence. As President Obama's greenhouse gas reduction goals align with changing behaviors, it raises the question—has America reached peak driving? This decline in driving, if sustained, bodes well for both the environment and personal finances.
+
+Furthermore, the social fabric of communities is positively influenced by reduced car dependence. The Vauban model, with its emphasis on creating walkable neighborhoods and accessible public transportation, fosters a sense of community and well-being. Residents testify to an improved quality of life, free from the stress associated with car ownership.
+
+In conclusion, the advantages of limiting car usage extend far beyond individual preferences. The environmental, social, and economic benefits of such a shift are evident in various global experiments. As societies grapple with the challenges posed by excessive car usage, embracing alternative modes of transportation becomes not only a choice but a necessity for a sustainable and harmonious future.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+All across the globe, a revolutionary idea is being set in motion. The idea of essentially banning cars from the streets has sparked as much interest as it has critics. The automotive industry has been booming since World War 2, and although the positive effects of cars can be seen in our daily lives, we seldom take into consideration of the negative impacts of cars. Effects such as pollution, traffic, and cost have impacted our lives as automotive users, even if we have not realized it.
+
+Pollution is one of the primary concerns of a world that is constantly driving, yet it is something people hardly take into account when driving. In theory that is understandable, considering the last thing a person is thinking about when they're driving is what their car is spitting out into the atmosphere. However pollution doesn't go unnoticed for long. For example, the city of Paris, France enforced a partial driving ban in order to decrease the almost record breaking pollution across the city, stating, "The smog rivaled Beijing, China, which is known as one of the most polluted cities in the world." The smog did clear from the city and previous driving laws were reinstated, however this shows how car pollution has a negative impact on the world around us.
+
+Another negative impact of driving is traffic. Traffic is a driver's worst nightmare, and it affects all of us at some point in our lives. In Bogota, Columbia, citizens participated in a drivingfree day, where everyone was encouraged to either hike, bike, skate, or use public transportation in order to reach their destination. This event, in which millions of Colombians participated, was reportedly "leaving the streets of this capital city eerily devoid of traffic jams." This program left a positive mark on the city of Bogota, and will hopefully soon spread to other countries, reducing crowded, traffic filled streets around the world.
+
+The world runs on money, just ask any Wall Street broker. This is a paradox concerning both car owners and people looking to purchase a car. The question remains, if we're all trying to save money, why spend thousands of dollars on a costly car? According to a census taken in 2013, "Part of the explanation certainly lies in the recession, because cashstrapped Americans could not afford cars, and the unemployed weren't going to work anyway." This shows that the number of people buying cars is steadily decreasing. Another costly problem of cars is fuel. Buying gasoline for your car every week can get incredibly costly, especially when driving a large truck or sports car. This shows how the cost of cars can have a negative impact on our lives.
+
+In conclusion, the use of cars is steadily declining. Cars just aren't a very positive motive for transportation anymore considering the effects of pollution, traffic, and cost that cars produce.
+
+EXAMPLE 2:
+Millions of people use cars in their everyday lives whether its driving to work, school or even the supermarket. With the amount of people on the streets on a daily basis, its not surprising that there is a major traffic issue in Miami. Most people dont realise how big of an issue this truly is because in reality they just need to get to and from work. I'm here to inform you about the beneficial alternatives to driving everywhere you go.
+
+Whether going to work or driving your kids to soccer practice, a way of transportation is a must. Most people choose the "easy" way out and just hop in their brand new luxury cars. But what if I told you there is an easier way, a more efficient way? All around Miami, there are metro rail stations. These stations are clean, safe, and not to mention useful. There are busses, troll's, and even metro movers that can take you all around the city. the trains, busses, troll's and metro movers all run on a schedule. An easy way to limit your gas bill, pollution and time wasted in traffic is to simply set up a route to where you need to go and catch the appropriate mose of transportation.
+
+Time is always on peoples mind, whether you have enough time to go shopping for a new dress or maybe stop by grandmas house. all things require time. Everyday millions of Americans spend hours stuck in traffic due to rushhour. This means less time spent with family anymore time bonding with the annoying car horns constantly beeping. If you could switch to another mode of transportation you could cut time commuting in half. The Metro rail avoided all traffic regardless and if more people start thinking like this then the bus might soon be avoidingall traffic too. Heidrun Walter, a media trainer and mother of two says "When i had a car i was always tense. I'm much happier this way." Everyday she walks verdant streets listening to the delightful sound of people chatting and children playing, something she was unable to appreciate with her windows rolled up as she drove around town.
+
+So many fuel consuming vehicles on the street on a daily basis can't be too great for our environment, don't you think? It isnt, all this pollution is causing a nasty smog all over the world, some places more than others. Paris tends to have more smog than Europe but not too long ago, Paris had 147 micrograms or particulate matter per cubic meter compared to 114 in Brussels. This smog makes it difficult for dilivery companies to complete their jobs. This smog isnt good for us either just think about what you are breathing.
+
+## ChatGPT
+In various parts of the world, a transformative movement is gaining traction—one that challenges the conventional reliance on cars and seeks to revolutionize urban and suburban life. The advantages of limiting car usage are multifaceted, encompassing environmental, social, and economic benefits. This essay explores the rationale behind reducing car dependency, drawing insights from diverse sources such as a car-free suburb in Germany, a driving ban in Paris, a car-free day in Bogota, and a broader cultural shift in the United States.
+
+One of the primary motivations for limiting car usage lies in addressing the environmental impact of automobiles. As exemplified by the upscale community of Vauban in Germany, where car ownership is allowed but severely restricted, residents have embraced a car-free lifestyle. The reduction in car ownership directly contributes to a decrease in greenhouse gas emissions—a crucial consideration in combating climate change. According to experts, passenger cars are responsible for a significant portion of emissions, ranging from 12 percent in Europe to a staggering 50 percent in some car-intensive areas of the United States. This underscores the urgent need to separate suburban life from excessive car use, a trend observed not only in Europe but also gaining momentum in the United States.
+
+Furthermore, instances such as the driving ban in Paris during periods of smog highlight the immediate benefits of restricting car usage. Paris, facing near-record pollution levels, implemented a partial driving ban based on license plate numbers. The result was a 60 percent reduction in congestion, demonstrating the positive impact of curbing car usage on air quality and public health. Such measures showcase the adaptability of urban environments to prioritize alternatives to individual car ownership, including public transportation and shared mobility solutions.
+
+The global trend toward limiting car usage extends beyond Europe and the United States. Bogota, Colombia, has successfully implemented a car-free day for three consecutive years, with millions participating in alternative modes of transportation. This initiative, aimed at reducing smog and promoting sustainable transportation, illustrates the potential for widespread adoption of car-free practices, even in densely populated urban areas.
+
+Moreover, a broader cultural shift in the United States is contributing to a decline in car ownership and usage. Studies suggest that Americans are buying fewer cars, driving less, and obtaining fewer licenses, indicating a potential peak in driving habits. Factors such as the rise of telecommuting facilitated by the internet, renewed interest in city living, and advancements in shared transportation contribute to this shift. If this pattern continues, it could lead to positive outcomes, including reduced carbon emissions and environmental impact.
+
+In conclusion, the advantages of limiting car usage are evident in environmental sustainability, reduced traffic congestion, and cultural shifts favoring alternative modes of transportation. From car-free suburbs in Germany to driving bans in Paris and car-free days in Bogota, the global movement toward smart planning and reduced car dependency holds promise for a more sustainable and livable future. As citizens, we should consider embracing these changes to foster a healthier and more environmentally conscious way of life.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+All across the globe, a revolutionary idea is being set in motion. The idea of essentially banning cars from the streets has sparked as much interest as it has critics. The automotive industry has been booming since World War 2, and although the positive effects of cars can be seen in our daily lives, we seldom take into consideration of the negative impacts of cars. Effects such as pollution, traffic, and cost have impacted our lives as automotive users, even if we have not realized it.
+
+Pollution is one of the primary concerns of a world that is constantly driving, yet it is something people hardly take into account when driving. In theory that is understandable, considering the last thing a person is thinking about when they're driving is what their car is spitting out into the atmosphere. However pollution doesn't go unnoticed for long. For example, the city of Paris, France enforced a partial driving ban in order to decrease the almost record breaking pollution across the city, stating, "The smog rivaled Beijing, China, which is known as one of the most polluted cities in the world." The smog did clear from the city and previous driving laws were reinstated, however this shows how car pollution has a negative impact on the world around us.
+
+Another negative impact of driving is traffic. Traffic is a driver's worst nightmare, and it affects all of us at some point in our lives. In Bogota, Columbia, citizens participated in a drivingfree day, where everyone was encouraged to either hike, bike, skate, or use public transportation in order to reach their destination. This event, in which millions of Colombians participated, was reportedly "leaving the streets of this capital city eerily devoid of traffic jams." This program left a positive mark on the city of Bogota, and will hopefully soon spread to other countries, reducing crowded, traffic filled streets around the world.
+
+The world runs on money, just ask any Wall Street broker. This is a paradox concerning both car owners and people looking to purchase a car. The question remains, if we're all trying to save money, why spend thousands of dollars on a costly car? According to a census taken in 2013, "Part of the explanation certainly lies in the recession, because cashstrapped Americans could not afford cars, and the unemployed weren't going to work anyway." This shows that the number of people buying cars is steadily decreasing. Another costly problem of cars is fuel. Buying gasoline for your car every week can get incredibly costly, especially when driving a large truck or sports car. This shows how the cost of cars can have a negative impact on our lives.
+
+In conclusion, the use of cars is steadily declining. Cars just aren't a very positive motive for transportation anymore considering the effects of pollution, traffic, and cost that cars produce.
+
+EXAMPLE 2:
+Millions of people use cars in their everyday lives whether its driving to work, school or even the supermarket. With the amount of people on the streets on a daily basis, its not surprising that there is a major traffic issue in Miami. Most people dont realise how big of an issue this truly is because in reality they just need to get to and from work. I'm here to inform you about the beneficial alternatives to driving everywhere you go.
+
+Whether going to work or driving your kids to soccer practice, a way of transportation is a must. Most people choose the "easy" way out and just hop in their brand new luxury cars. But what if I told you there is an easier way, a more efficient way? All around Miami, there are metro rail stations. These stations are clean, safe, and not to mention useful. There are busses, troll's, and even metro movers that can take you all around the city. the trains, busses, troll's and metro movers all run on a schedule. An easy way to limit your gas bill, pollution and time wasted in traffic is to simply set up a route to where you need to go and catch the appropriate mose of transportation.
+
+Time is always on peoples mind, whether you have enough time to go shopping for a new dress or maybe stop by grandmas house. all things require time. Everyday millions of Americans spend hours stuck in traffic due to rushhour. This means less time spent with family anymore time bonding with the annoying car horns constantly beeping. If you could switch to another mode of transportation you could cut time commuting in half. The Metro rail avoided all traffic regardless and if more people start thinking like this then the bus might soon be avoidingall traffic too. Heidrun Walter, a media trainer and mother of two says "When i had a car i was always tense. I'm much happier this way." Everyday she walks verdant streets listening to the delightful sound of people chatting and children playing, something she was unable to appreciate with her windows rolled up as she drove around town.
+
+So many fuel consuming vehicles on the street on a daily basis can't be too great for our environment, don't you think? It isnt, all this pollution is causing a nasty smog all over the world, some places more than others. Paris tends to have more smog than Europe but not too long ago, Paris had 147 micrograms or particulate matter per cubic meter compared to 114 in Brussels. This smog makes it difficult for dilivery companies to complete their jobs. This smog isnt good for us either just think about what you are breathing.
+
+## ChatGPT
+In recent years, a groundbreaking idea has taken root across the globe—limiting the use of cars as a means of transportation. While cars have undoubtedly shaped our daily lives, their negative impacts on pollution, traffic, and personal finances are prompting a shift in perspective. As a high school student in the United States, it is essential to recognize the advantages of reducing car usage, drawing inspiration from examples worldwide.
+
+One compelling instance of reimagining suburban life without cars is found in Vauban, Germany. In this experimental community, residents have voluntarily given up car ownership, with strict regulations on parking. The result is a community where 70 percent of families do not own cars, and 57 percent sold their cars to embrace this lifestyle. This deliberate choice has led to improved well-being, as one resident notes, "When I had a car, I was always tense. I'm much happier this way." Vauban serves as a beacon for smart planning initiatives worldwide, illustrating the potential benefits of separating suburban life from excessive car use.
+
+The detrimental impact of cars on the environment is another critical aspect to consider. The partial driving ban implemented in Paris due to smog highlights the urgency of addressing air pollution caused by automobiles. The ban, which led to a 60 percent reduction in congestion, demonstrates the immediate positive effects of limiting car usage on air quality. The growing awareness of the environmental toll of cars is driving initiatives like car-free days, such as the one in Bogota, Colombia, where millions participated, leaving the streets devoid of traffic jams and contributing to reduced smog.
+
+Moreover, the evolving cultural shift in the United States, where people are buying fewer cars and driving less, aligns with broader efforts to curb greenhouse gas emissions. President Obama's ambitious goals to reduce emissions align with the changing behavior of Americans who are increasingly opting for alternative transportation modes. The decrease in car ownership, particularly among the younger generation, reflects a transformative shift in attitudes toward personal vehicle ownership, with potential long-term benefits for carbon emissions and the environment.
+
+In conclusion, the advantages of limiting car usage are evident on multiple fronts, from improving overall well-being in communities like Vauban to addressing environmental concerns such as air pollution and greenhouse gas emissions. As the world grapples with the consequences of excessive car use, adopting alternative transportation methods and embracing smart planning principles can pave the way for a more sustainable and vibrant future.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+All across the globe, a revolutionary idea is being set in motion. The idea of essentially banning cars from the streets has sparked as much interest as it has critics. The automotive industry has been booming since World War 2, and although the positive effects of cars can be seen in our daily lives, we seldom take into consideration of the negative impacts of cars. Effects such as pollution, traffic, and cost have impacted our lives as automotive users, even if we have not realized it.
+
+Pollution is one of the primary concerns of a world that is constantly driving, yet it is something people hardly take into account when driving. In theory that is understandable, considering the last thing a person is thinking about when they're driving is what their car is spitting out into the atmosphere. However pollution doesn't go unnoticed for long. For example, the city of Paris, France enforced a partial driving ban in order to decrease the almost record breaking pollution across the city, stating, "The smog rivaled Beijing, China, which is known as one of the most polluted cities in the world." The smog did clear from the city and previous driving laws were reinstated, however this shows how car pollution has a negative impact on the world around us.
+
+Another negative impact of driving is traffic. Traffic is a driver's worst nightmare, and it affects all of us at some point in our lives. In Bogota, Columbia, citizens participated in a drivingfree day, where everyone was encouraged to either hike, bike, skate, or use public transportation in order to reach their destination. This event, in which millions of Colombians participated, was reportedly "leaving the streets of this capital city eerily devoid of traffic jams." This program left a positive mark on the city of Bogota, and will hopefully soon spread to other countries, reducing crowded, traffic filled streets around the world.
+
+The world runs on money, just ask any Wall Street broker. This is a paradox concerning both car owners and people looking to purchase a car. The question remains, if we're all trying to save money, why spend thousands of dollars on a costly car? According to a census taken in 2013, "Part of the explanation certainly lies in the recession, because cashstrapped Americans could not afford cars, and the unemployed weren't going to work anyway." This shows that the number of people buying cars is steadily decreasing. Another costly problem of cars is fuel. Buying gasoline for your car every week can get incredibly costly, especially when driving a large truck or sports car. This shows how the cost of cars can have a negative impact on our lives.
+
+In conclusion, the use of cars is steadily declining. Cars just aren't a very positive motive for transportation anymore considering the effects of pollution, traffic, and cost that cars produce.
+
+EXAMPLE 2:
+Millions of people use cars in their everyday lives whether its driving to work, school or even the supermarket. With the amount of people on the streets on a daily basis, its not surprising that there is a major traffic issue in Miami. Most people dont realise how big of an issue this truly is because in reality they just need to get to and from work. I'm here to inform you about the beneficial alternatives to driving everywhere you go.
+
+Whether going to work or driving your kids to soccer practice, a way of transportation is a must. Most people choose the "easy" way out and just hop in their brand new luxury cars. But what if I told you there is an easier way, a more efficient way? All around Miami, there are metro rail stations. These stations are clean, safe, and not to mention useful. There are busses, troll's, and even metro movers that can take you all around the city. the trains, busses, troll's and metro movers all run on a schedule. An easy way to limit your gas bill, pollution and time wasted in traffic is to simply set up a route to where you need to go and catch the appropriate mose of transportation.
+
+Time is always on peoples mind, whether you have enough time to go shopping for a new dress or maybe stop by grandmas house. all things require time. Everyday millions of Americans spend hours stuck in traffic due to rushhour. This means less time spent with family anymore time bonding with the annoying car horns constantly beeping. If you could switch to another mode of transportation you could cut time commuting in half. The Metro rail avoided all traffic regardless and if more people start thinking like this then the bus might soon be avoidingall traffic too. Heidrun Walter, a media trainer and mother of two says "When i had a car i was always tense. I'm much happier this way." Everyday she walks verdant streets listening to the delightful sound of people chatting and children playing, something she was unable to appreciate with her windows rolled up as she drove around town.
+
+So many fuel consuming vehicles on the street on a daily basis can't be too great for our environment, don't you think? It isnt, all this pollution is causing a nasty smog all over the world, some places more than others. Paris tends to have more smog than Europe but not too long ago, Paris had 147 micrograms or particulate matter per cubic meter compared to 114 in Brussels. This smog makes it difficult for dilivery companies to complete their jobs. This smog isnt good for us either just think about what you are breathing.
+
+## ChatGPT
+In today's fast-paced world, the automobile has become an indispensable part of our daily lives, offering convenience and mobility. However, recent trends around the globe suggest that limiting car usage might be the key to addressing pressing issues such as pollution, traffic congestion, and economic strain. By examining examples from Germany, France, Colombia, and the United States, it becomes evident that embracing alternative transportation methods and reducing dependence on cars can lead to a multitude of advantages.
+
+One of the most significant advantages of limiting car usage is the positive impact on environmental sustainability. According to Elisabeth Rosenthal's article on the German suburb Vauban, which experimented with a car-free community, residents experienced a notable reduction in stress and increased happiness when cars were excluded from daily life. Furthermore, the environmental benefits were tangible, with 70 percent of Vauban's families choosing not to own cars, contributing to a substantial decrease in greenhouse gas emissions. Rosenthal emphasizes that cars are responsible for a considerable portion of emissions in Europe and the United States, making them a critical focus for environmental initiatives.
+
+In Paris, another example of the environmental consequences of excessive car usage is highlighted. Robert Duffer's article discusses how Paris enforced a partial driving ban to combat near-record pollution levels. The ban not only led to a significant decrease in congestion but also prompted citizens to explore alternative modes of transportation, such as public transit. The event underscores the potential for positive change when cities prioritize environmental concerns over unrestricted car usage.
+
+Apart from environmental benefits, limiting car usage has proven to alleviate traffic congestion, which is a common woe in bustling cities. The car-free day initiative in Bogota, Colombia, as reported by Andrew Selsky, showcased a city without the usual traffic jams, providing a stark contrast to the congested norm. Millions of Colombians embraced alternative transportation methods, such as hiking, biking, skating, or using public buses, leading to a 60 percent reduction in congestion. This initiative demonstrates the feasibility of reducing traffic-related stress and enhancing overall urban mobility by encouraging citizens to explore alternative modes of transport.
+
+Economic considerations also play a crucial role in advocating for the limitation of car usage. Elisabeth Rosenthal's analysis of President Obama's goals to curb greenhouse gas emissions highlights a cultural shift in the United States, with studies indicating a decline in car ownership and driving. The decreasing interest in car ownership among young adults, as mentioned in Rosenthal's piece, suggests a trend that could have long-term economic implications for the automotive industry. As people explore alternatives like public transit, car-sharing programs, and biking, the need for personal vehicle ownership diminishes, potentially leading to a shift in business models within the automotive industry.
+
+In conclusion, the advantages of limiting car usage are multifaceted and extend beyond individual preferences. From environmental sustainability and reduced traffic congestion to economic considerations, the global shift toward embracing alternative transportation methods is evident. As exemplified by innovative communities and cities around the world, smart planning that prioritizes public transportation and minimizes dependence on cars can lead to a more sustainable and harmonious future for urban life.
+
+# Limiting Car Usage
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+Limiting car usage has become a topic of discussion and experimentation in various parts of the world, driven by the recognition of the advantages associated with reduced reliance on automobiles. One prominent example is Vauban, Germany, where an innovative community has taken the bold step of giving up cars altogether. Streets in Vauban are "car-free," except for the main thoroughfare where a tram to downtown Freiburg runs and a few streets on one edge of the community. Residents are allowed to own cars, but parking is restricted to large garages at the edge of the development, priced at $40,000 per space. This approach has resulted in 70 percent of Vauban's families not owning cars, and 57 percent selling a car to move to this unique community.
+
+Vauban, completed in 2006, represents a growing trend in Europe, the United States, and beyond to separate suburban life from auto use as part of a movement known as "smart planning." Traditional suburban development, centered around car dependence, has been identified as a significant contributor to greenhouse gas emissions. Passenger cars alone are responsible for 12 percent of greenhouse gas emissions in Europe and up to 50 percent in some car-intensive areas in the United States. The need for change is evident, and experts argue that reducing car usage is a crucial component of efforts to address climate change.
+
+Beyond environmental concerns, limiting car usage has shown positive effects on individual well-being. Residents of Vauban attest to feeling happier and less tense without the constant reliance on cars. Heidrun Walter, a media trainer and mother of two in Vauban, expressed, "When I had a car, I was always tense. I'm much happier this way." This sentiment is echoed in other communities around the world that have adopted similar measures to promote a shift away from car-centric lifestyles.
+
+Paris, facing severe smog issues, implemented a partial driving ban with even- and odd-numbered license plates on alternate days. The ban resulted in a 60 percent reduction in congestion and demonstrated the potential impact of temporary measures to limit car usage. Additionally, Bogota, Colombia, has successfully organized a "Day Without Cars" for three consecutive years, where millions of Colombians hiked, biked, skated, or took buses to work, leaving the streets traffic-free and promoting alternative transportation methods.
+
+In the United States, there is a noticeable shift in driving behavior, with recent studies suggesting a decline in car ownership and driving. This trend aligns with President Obama's goals to curb greenhouse gas emissions. The decrease in driving is attributed not only to the economic downturn but also to a fundamental shift in behavior, with factors such as the rise of the internet enabling telecommuting, renewed interest in city living, and the availability of alternative transportation options.
+
+While the idea of limiting car usage may face initial resistance, the long-term benefits are evident. Reduced pollution, improved mental well-being, and a positive impact on climate change are compelling reasons to consider alternative modes of transportation. As communities worldwide explore and implement "smart planning" strategies, the hope is that a cultural shift away from excessive car usage will become more widespread, leading to a more sustainable and environmentally friendly future.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+Limiting car usage presents numerous advantages that extend beyond personal convenience and preferences. As exemplified by Vauban, Germany, and other instances worldwide, this shift away from excessive car reliance contributes to environmental sustainability, public health, and community well-being.
+
+Vauban, Germany, stands as a pioneering example of a community that has embraced a lifestyle free from the constraints of car ownership. The deliberate design of the neighborhood, with restricted parking and an emphasis on public transportation, has led to 70 percent of families forgoing car ownership altogether. This not only reflects a commitment to "smart planning" but also addresses the environmental impact of cars. In Europe, where passenger cars are responsible for 12 percent of greenhouse gas emissions, Vauban's model emerges as a progressive step toward reducing carbon footprints.
+
+The initiative to limit car usage is not exclusive to Vauban; Paris, in response to severe smog conditions, implemented a temporary driving ban. The results were evident, with a 60 percent reduction in congestion and an improvement in air quality. Such measures demonstrate the immediate positive effects on public health and environmental conditions when car usage is restricted.
+
+Bogota, Colombia, took the concept a step further with its annual "Day Without Cars." This event, now in its third year, encourages millions to explore alternative transportation methods, promoting a healthier lifestyle and reducing pollution. Despite occasional rain showers, the turnout remained substantial, reflecting a growing awareness of the benefits of limiting car usage.
+
+In the United States, a cultural shift is occurring, marked by a decline in car ownership and driving. Researchers suggest that the country may have reached "peak driving," with the number of miles driven per person steadily decreasing. This shift is not solely attributed to economic factors but also indicates a fundamental change in societal attitudes towards car ownership. Initiatives such as New York's bike-sharing program and the proliferation of car-sharing programs across the nation underscore this trend.
+
+Reducing car usage has broader implications, not only for individuals but for entire communities and the planet. The decrease in driving aligns with environmental goals, as transportation is a significant contributor to greenhouse gas emissions. Additionally, it fosters a sense of community by promoting alternative transportation methods and creating spaces where people can interact without the barrier of cars.
+
+In conclusion, limiting car usage offers a multifaceted solution to environmental, health, and community-related challenges. By adopting innovative urban planning, temporary driving bans, and initiatives like "Day Without Cars," societies can pave the way for a more sustainable and interconnected future. As the world grapples with the consequences of excessive car usage, these examples serve as beacons of hope, illustrating the positive impact that conscious decisions regarding transportation can have on the well-being of individuals and the planet.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+In recent years, a growing trend around the world has emerged, advocating for the limitation of car usage. This movement, often associated with "smart planning," seeks to reshape suburban life by reducing dependence on automobiles. Vauban, an upscale community in Germany, stands out as a pioneer in this regard, where residents have voluntarily given up their cars. Streets in Vauban are deliberately designed to be "car-free," allowing only limited parking spaces at the edge of the development, emphasizing a shift towards a more sustainable and environmentally friendly lifestyle.
+
+One compelling advantage of limiting car usage is the significant reduction in greenhouse gas emissions. According to experts, passenger cars contribute to 12 percent of greenhouse gas emissions in Europe and up to 50 percent in some car-intensive areas in the United States. By adopting practices similar to Vauban's, other communities aim to break away from the traditional suburban model centered around cars. This movement challenges the status quo, suggesting that the amount people drive is as crucial as the type of vehicles they own, as articulated by David Goldberg of Transportation for America.
+
+Paris provides another striking example of the environmental impact of cars. In response to near-record pollution levels, the city enforced a partial driving ban, resulting in a 60 percent reduction in congestion. The ban effectively curbed smog, even rivalling the pollution levels of notoriously polluted cities like Beijing. Such measures demonstrate the potential positive outcomes of restricting car usage in major urban centers, not only for the environment but also for public health.
+
+Beyond environmental benefits, limiting car usage can enhance the overall well-being of individuals. In Vauban, residents reported decreased stress levels after giving up their cars. Heidrun Walter, a media trainer and mother of two, expressed her contentment, stating, "When I had a car, I was always tense. I'm much happier this way." This sentiment suggests that alternative modes of transportation, such as walking and cycling, can contribute to a healthier and more relaxed lifestyle.
+
+Car-free initiatives, like the annual "Day Without Cars" in Bogota, Colombia, further illustrate the potential for positive change. Millions of Colombians participated in this event, promoting alternative transportation methods and leaving the streets eerily devoid of traffic jams. The success of such initiatives demonstrates that, with proper planning and commitment, communities can thrive without relying heavily on cars.
+
+In the United States, where car culture has long been ingrained, a shift in behavior is becoming evident. Recent studies suggest a decline in car ownership, driving, and licensing, prompting questions about whether the country has reached "peak driving." This shift, influenced by factors such as economic considerations, technological advancements, and changing social preferences, aligns with President Obama's goals to curb greenhouse gas emissions.
+
+While limiting car usage poses some challenges, including the need for improved public transportation infrastructure, changing cultural norms, and addressing accessibility concerns, the benefits far outweigh the drawbacks. As societies increasingly recognize the importance of sustainable living, smart planning, and reduced environmental impact, the trend towards limiting car usage is likely to gain momentum and reshape the way we approach transportation and suburban life.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+In recent years, a significant shift in urban planning and lifestyle choices has emerged, advocating for the advantages of limiting car usage. This movement, often referred to as "smart planning," aims to reshape suburban life, reduce greenhouse gas emissions, and create more sustainable communities. Examining examples from Germany, France, Colombia, and the United States, it becomes evident that the benefits of restricting car usage extend beyond environmental concerns to encompass improved well-being, reduced stress, and enhanced urban livability.
+
+In the upscale community of Vauban, Germany, residents have pioneered a car-free lifestyle, with streets designed to be completely devoid of cars, except for a main thoroughfare for public transportation. The experiment, part of the "smart planning" movement, has led to 70 percent of families in Vauban not owning cars, and 57 percent selling their cars to move there. Residents, such as media trainer Heidrun Walter, have reported increased happiness and reduced tension, emphasizing the positive impact of limiting car usage on personal well-being.
+
+France's response to smog-induced pollution in Paris provides another compelling example of the advantages of restricting car usage. A partial driving ban, enforced based on license plate numbers, resulted in a 60 percent reduction in congestion and a notable improvement in air quality. The ban, albeit temporary, showcased the immediate positive effects of limiting car usage in mitigating environmental challenges.
+
+Beyond Europe, Bogota, Colombia, has successfully implemented an annual "Day Without Cars." During this event, millions of citizens hike, bike, skate, or use public transportation instead of cars. The car-free day not only reduces traffic congestion but also promotes alternative transportation methods, contributing to lower stress levels and decreased air pollution. The success of this program has inspired other cities to consider similar initiatives.
+
+In the United States, a cultural shift away from excessive car usage is becoming apparent. Studies indicate a decrease in the number of miles driven per person, challenging the notion of America as a car-centric society. This shift is attributed to factors such as the rise of telecommuting, increased connectivity through the internet, and a renewed interest in urban living. As young people show decreasing interest in obtaining driver's licenses and prioritize alternative transportation, the landscape of American mobility is evolving.
+
+While limiting car usage poses challenges, such as adapting infrastructure and transportation systems, the benefits are substantial. Reduced environmental impact, improved personal well-being, and the creation of more vibrant and accessible communities are among the positive outcomes. As the world grapples with the need for sustainable living, the examples of Vauban, Paris, Bogota, and the changing trends in the United States underscore the advantages of embracing a lifestyle with less dependence on cars. Through careful planning and a collective shift in mindset, limiting car usage can contribute to a healthier, more sustainable future for communities worldwide.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+Cars have become an indispensable part of daily life for many people around the world. The convenience they offer is hard to overlook, but recent initiatives in various parts of the globe suggest that limiting car usage can bring about significant advantages. This essay explores the benefits of reducing reliance on cars, drawing insights from several sources that highlight the experiences of communities in Germany, France, Colombia, and the United States.
+
+One notable example is the German suburb of Vauban, where residents have taken a pioneering step by giving up their cars. In Vauban, streets are designed to be "car-free," and strict regulations on parking and garages discourage car ownership. According to Elisabeth Rosenthal's article, 70 percent of Vauban's families do not own cars, and 57 percent sold their cars to move to this experimental community. The residents express increased satisfaction and happiness with this lifestyle, as emphasized by Heidrun Walter, a media trainer and mother of two, who mentioned, "When I had a car, I was always tense. I'm much happier this way" (Source 1).
+
+The advantages of reducing car usage extend beyond individual well-being to environmental concerns. Cars are a significant contributor to greenhouse gas emissions, particularly in suburban areas. As noted in the passage, automobiles account for 12 percent of greenhouse gas emissions in Europe and up to 50 percent in some car-intensive areas in the United States (Source 5). Efforts to limit car usage align with broader environmental goals, especially in the context of combating climate change.
+
+Paris provides another compelling example of the positive impact of limiting car usage. In response to near-record pollution, the city enforced a partial driving ban, resulting in a 60 percent reduction in congestion. The smog levels, comparable to Beijing's notorious pollution, significantly decreased after just five days of the driving ban (Source 10). This demonstrates the immediate environmental benefits that can be achieved through short-term restrictions on car usage.
+
+Beyond Europe, Bogota, Colombia, has successfully implemented a car-free day for three consecutive years. Millions of Colombians participated in hiking, biking, skating, or taking buses to work, leaving the streets devoid of the typical traffic jams. The initiative aims to promote alternative transportation and reduce smog, contributing to a more sustainable and environmentally friendly urban environment (Source 21).
+
+In the United States, there is a growing shift in behavior regarding car ownership and usage. Studies suggest that Americans are buying fewer cars, driving less, and getting fewer licenses. The decrease in driving is attributed not only to economic factors, such as the recession, but also to fundamental shifts in cultural preferences and the availability of alternative transportation options. Initiatives like New York's bike-sharing program and the proliferation of car-sharing programs across the nation reflect changing priorities and preferences among Americans (Source 29, 37).
+
+In conclusion, limiting car usage offers a range of advantages, including environmental sustainability, reduced stress, and enhanced overall well-being. The experiences of communities in Germany, France, Colombia, and the United States highlight the positive outcomes associated with smart planning, environmental consciousness, and the promotion of alternative transportation. As the world grapples with the challenges of climate change and urbanization, embracing a lifestyle with reduced reliance on cars emerges as a viable and beneficial solution.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+Limiting car usage can bring about numerous advantages that extend beyond individual convenience, affecting environmental, health, and societal aspects. In Vauban, Germany, a groundbreaking experiment in urban planning has resulted in a car-free community. This approach, known as "smart planning," is gaining traction globally as cities recognize the need to reduce the environmental impact of car-dependent suburbs. By restricting parking options and strategically placing essential services within walking distance, Vauban has successfully reduced car ownership, with 70 percent of families opting to live without cars. Residents report heightened happiness levels, attributing it to the reduced stress associated with car ownership.
+
+The environmental benefits of limiting car usage are evident in Paris, where a partial driving ban was enforced to combat intense smog. The ban led to a 60 percent reduction in congestion, showcasing the potential for immediate improvements in air quality. This demonstrates the profound impact that even short-term restrictions on car usage can have on pollution levels, providing a compelling argument for adopting such measures more broadly.
+
+Bogota, Colombia's "Day Without Cars" initiative further emphasizes the societal benefits of reducing car reliance. Millions of Colombians opted for alternative transportation on this day, resulting in eerily traffic-free streets and a significant reduction in stress for participants. This successful event, now in its third year, has even inspired other cities to explore similar initiatives, underlining the potential for a cultural shift away from car-centric habits.
+
+In the United States, there are indications that the nation may be reaching a turning point in its car culture. Studies suggest that Americans are buying fewer cars, driving less, and obtaining fewer licenses, contributing to a decrease in the number of miles driven per person. This trend is not solely a consequence of economic factors but appears to be indicative of a fundamental shift in attitudes towards car ownership.
+
+Reducing car usage has far-reaching implications, not just for individuals but for society as a whole. It addresses environmental concerns, promotes healthier and happier lifestyles, and contributes to a shift in cultural norms surrounding personal transportation. As communities worldwide grapple with the need for sustainability, limiting car usage emerges as a viable and necessary solution for the well-being of both individuals and the planet.
+
+## You
+Write an explanatory essay to inform fellow citizens about the advantages of limiting car usage. Your essay must be based on ideas and information that can be found in the passage set. Manage your time carefully so that you can read the passages; plan your response; write your response; and revise and edit your response. Be sure to use evidence from multiple sources; and avoid overly relying on one source. Your response should be in the form of a multiparagraph essay. Write your essay in the space provided. 
+
+
+You are a US high school student. Use language imitating the structure and tone of the examples below. Use the sources but never explicitly cite them or their authors. Do not give any title.
+
+SOURCES:
+# In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal
+
+1 VAUBAN, Germany—Residents of this upscale community are suburban pioneers, going where few soccer moms or commuting executives have ever gone before: they have given up their cars.
+
+2 Street parking, driveways and home garages are generally forbidden in this experimental new district on the outskirts of Freiburg, near the French and Swiss borders. Vauban’s streets are completely “car-free”—except the main thoroughfare, where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Car ownership is allowed, but there are only two places to park—large garages at the edge of the development, where a car-owner buys a space, for $40,000, along with a home.
+
+3 As a result, 70 percent of Vauban’s families do not own cars, and 57 percent sold a car to move here. “When I had a car I was always tense. I’m much happier this way,” said Heidrun Walter, a media trainer and mother of two, as she walked verdant streets where the swish of bicycles and the chatter of wandering children drown out the occasional distant motor.
+
+4 Vauban, completed in 2006, is an example of a growing trend in Europe, the United States and elsewhere to separate suburban life from auto use, as a component of a movement called “smart planning.”
+
+5 Automobiles are the linchpin of suburbs, where middle-class families from Chicago to Shanghai tend to make their homes. And that, experts say, is a huge impediment to current efforts to drastically reduce greenhouse gas emissions from tailpipes . . . . Passenger cars are responsible for 12 percent of greenhouse gas emissions in Europe . . . and up to 50 percent in some car-intensive areas in the United States.
+
+6 While there have been efforts in the past two decades to make cities denser, and better for walking, planners are now taking the concept to the suburbs . . . . Vauban, home to 5,500 residents within a rectangular square mile, may be the most advanced experiment in low-car suburban life. But its basic precepts are being adopted around the world in attempts to make suburbs more compact and more accessible to public transportation, with less space for parking. In this new approach, stores are placed a walk away, on a main street, rather than in malls along some distant highway.
+
+7 “All of our development since World War II has been centered on the car, and that will have to change,” said David Goldberg, an official of Transportation for America, a fast-growing coalition of hundreds of groups in the United States . . . who are promoting new communities that are less dependent on cars. Mr. Goldberg added: “How much you drive is as important as whether you have a hybrid.”
+
+8 Levittown and Scarsdale, New York suburbs with spread-out homes and private garages, were the dream towns of the 1950s and still exert a strong appeal. But some new suburbs may well look more Vauban-like, not only in developed countries but also in the developing world, where emissions from an increasing number of private cars owned by the burgeoning middle class are choking cities.
+
+9 In the United States, the Environmental Protection Agency is promoting “car reduced” communities, and legislators are starting to act, if cautiously. Many experts expect public transport serving suburbs to play a much larger role in a new six-year federal transportation bill to be approved this year, Mr. Goldberg said. In previous bills, 80 percent of appropriations have by law gone to highways and only 20 percent to other transport. 
+
+Excerpt from “In German Suburb, Life Goes On Without Cars” by Elisabeth Rosenthal, from the New York Times. Copyright © 2009 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+# Paris bans driving due to smog by Robert Duffer
+
+10 After days of near-record pollution, Paris enforced a partial driving ban to clear the air of the global city.
+
+11 On Monday motorists with even-numbered license plates were ordered to leave their cars at home or suffer a 22-euro fine ($31). The same would apply to odd-numbered plates the following day.
+
+12 Almost 4,000 drivers were fined, according to Reuters1 . . . [Twenty-seven] people had their cars impounded for their reaction to the fine.
+
+13 That’s easier to imagine than a car-free Champs-Elysees.2
+
+14 Congestion 3 was down 60 percent in the capital of France, after five-days of intensifying smog . . . [The smog] rivaled Beijing, China, which is known as one of the most polluted cities in the world.
+
+15 Cold nights and warm days caused the warmer layer of air to trap car emissions.
+
+16 Diesel fuel was blamed, since France has . . . [a] tax policy that favors diesel over gasoline. Diesels make up 67 percent of vehicles in France, compared to a 53.3 percent average of diesel engines in the rest of Western Europe, according to Reuters.
+
+17 Paris typically has more smog than other European capitals . . . [Last] week Paris had 147 micrograms of particulate matter (PM) per cubic meter compared with 114 in Brussels and 79.7 in London, Reuters found.
+
+18 Delivery companies complained of lost revenue, while exceptions were made for plug-in cars, hybrids, and cars carrying three or more passengers. Public transit was free of charge from Friday to Monday, according to the BBC.
+
+19 The smog cleared enough Monday for the ruling French party to rescind the ban for oddnumbered plates on Tuesday. 1
+
+Excerpt from “Paris bans driving due to smog” by Robert Duffer, from the Chicago Tribune. Copyright © 2014 by the Chicago Tribune. Reprinted by permission of the Chicago Tribune via Copyright Clearance Center.
+
+# Car-free day is spinning into a big hit in Bogota by Andrew Selsky
+
+BOGOTA, Colombia—In a program that’s set to spread to other countries, millions of Colombians hiked, biked, skated or took buses to work during a car-free day yesterday, leaving the streets of this capital city eerily devoid of traffic jams.
+
+21 It was the third straight year cars have been banned with only buses and taxis permitted for the Day Without Cars in this capital city of 7 million. The goal is to promote alternative transportation and reduce smog. Violators faced $25 fines.
+
+22 The turnout was large, despite gray clouds that dumped occasional rain showers on Bogota.
+
+23 “The rain hasn’t stopped people from participating,” said Bogota Mayor Antanas Mockus . . . .
+
+24 “It’s a good opportunity to take away stress and lower air pollution,” said businessman Carlos Arturo Plaza as he rode a two-seat bicycle with his wife.
+
+25 For the first time, two other Colombian cities, Cali and Valledupar, joined the event.
+
+26 Municipal authorities from other countries came to Bogota to see the event and were enthusiastic. “These people are generating a revolutionary change, and this is crossing borders,” said Enrique Riera, the mayor of Asunción, Paraguay. . . .
+
+27 The day without cars is part of an improvement campaign that began in Bogota in the mid1990s. It has seen the construction of 118 miles of bicycle paths, the most of any Latin American city, according to Mockus, the city’s mayor.
+
+28 Parks and sports centers also have bloomed throughout the city; uneven, pitted sidewalks have been replaced by broad, smooth sidewalks; rush-hour restrictions have dramatically cut traffic; and new restaurants and upscale shopping districts have cropped up.
+
+Excerpt from “Car-free day is spinning into a big hit in Bogota” by Andrew Selsky, from the Seattle Times. Copyright © 2002 by the Seattle Times Company. Reprinted by permission of the Seattle Times Company via Copyright Clearance Center.
+
+# The End of Car Culture by Elisabeth Rosenthal
+
+29 President Obama’s ambitious goals to curb the United States’ greenhouse gas emissions, unveiled last week, will get a fortuitous assist from an incipient1 shift in American behavior: recent studies suggest that Americans are buying fewer cars, driving less and getting fewer licenses as each year goes by.
+
+30 That has left researchers pondering a fundamental question: Has America passed peak driving?
+
+31 The United States, with its broad expanses and suburban ideals, had long been one of the world’s prime car cultures. It is the birthplace of the Model T; the home of Detroit; the place where Wilson Pickett immortalized “Mustang Sally” . . . .
+
+32 But America’s love affair with its vehicles seems to be cooling. When adjusted for population growth, the number of miles driven in the United States peaked in 2005 and dropped steadily thereafter, according to an analysis by Doug Short of Advisor Perspectives, an investment research company. As of April 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in January 1995. Part of the explanation certainly lies in the recession, because cash-strapped Americans could not afford new cars, and the unemployed weren’t going to work anyway. But by many measures the decrease in driving preceded the downturn and appears to be persisting now that recovery is under way. The next few years will be telling.
+
+33 “What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn,” said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan’s Transportation Research Institute. “I think that means something more fundamental is going on.”
+
+34 If the pattern persists—and many sociologists believe it will—it will have beneficial implications for carbon emissions and the environment, since transportation is the second largest source of America’s emissions, just behind power plants. But it could have negative implications for the car industry. Indeed, companies like Ford and Mercedes are already rebranding themselves “mobility” companies with a broader product range beyond the personal vehicle.
+
+35 “Different things are converging which suggest that we are witnessing a long-term cultural shift,” said Mimi Sheller, a sociology professor at Drexel University and director of its Mobilities Research and Policy Center. She cites various factors: the Internet makes telecommuting possible and allows people to feel more connected without driving to meet friends. The renewal of center cities has made the suburbs less appealing and has drawn empty nesters back in. Likewise the rise in cellphones and car-pooling apps has facilitated more flexible commuting arrangements, including the evolution of shared van services for getting to work.
+
+36 With all these changes, people who stopped car commuting as a result of the recession may find less reason to resume the habit. . . .
+
+37 New York’s new bike-sharing program and its skyrocketing bridge and tunnel tolls reflect those new priorities, as do a proliferation of car-sharing programs across the nation.
+
+38 Demographic shifts in the driving population suggest that the trend may accelerate. There has been a large drop in the percentage of 16- to 39-year-olds getting a license, while older people are likely to retain their licenses as they age, Mr. Sivak’s research has found.
+
+39 He and I have similar observations about our children. Mine (19 and 21) have not bothered to get a driver’s license, even though they both live in places where one could come in handy. They are interested, but it’s not a priority. They organize their summer jobs and social life around where they can walk or take public transportation or car-pool with friends.
+
+40 Mr. Sivak’s son lives in San Francisco and has a car but takes Bay Area Rapid Transit, when he can, even though that often takes longer than driving. “When I was in my 20s and 30s,” Mr. Sivak said, “I was curious about what kind of car people drove, but young people don’t really care. A car is just a means of getting from A to B when BART doesn’t work.”
+
+41 A study last year found that driving by young people decreased 23 percent between 2001 and 2009. . . .
+
+42 Whether members of the millennial generation will start buying more cars once they have kids to take to soccer practice and school plays remains an open question. But such projections have important business implications, even if car buyers are merely older or buying fewer cars in a lifetime rather than rejecting car culture outright.
+
+43 At the Mobile World Congress last year in Barcelona, Spain, Bill Ford, executive chairman of the Ford Motor Company, laid out a business plan for a world in which personal vehicle ownership is impractical or undesirable. He proposed partnering with the telecommunications industry to create cities in which “pedestrian, bicycle, private cars, commercial and public transportation traffic are woven into a connected network to save time, conserve resources, lower emissions and improve safety.”
+
+Excerpt from “The End of Car Culture” by Elisabeth Rosenthal, from the New York Times. Copyright © 2013 by the New York Times Company. Reprinted by permission of the New York Times Company via Copyright Clearance Center.
+
+EXAMPLE 1:
+Cars are a luxury, but others take them for granted. Many people around the world operate cars every single day! Very few people around the world do not own a car, or have never operated one. In Vauban, Germany, residents of an upscale, high class community have decided to give up on cars. vaughn's streets are entirely "carfree" except the in the city where the tram to downtown Freiburg runs, and a few streets on one edge of the community. Don't get Germany wrong, you are allowed to own a car, but there's very few places to park the car you own. The only placed you can park are large garages at the end of your neighborhood or development, but parking isn't free here. You must buy a space for 40,000, along with the price of your home. 70 percent of vaughn's citizens do not own cars, and 57 percent alone sold their car to move there. "When I had a car I was always tense. I'm much happier this way," said Heidrun Walter, a media trainer and a mother of two. Vauban, Germany completed in 2006, is an excellent example of a growing trend in Europe, the United States, and other places to separate suburban life from auto use, as a component of a movement called "smart planning." According to Elisabeth Rosenthal who wrote, "In German Suburb, Life Goes On Without Cars." Cars can either be a blessing or a mistake. Cars can tend to put out polluting gases, and endanger our earth. In Paris, all driving was banned due to smog. On a Monday, motorisits with evennumbered license plates were ordered to leave their cars at home or suffer a 31 fine. The same would apply to the oddnumbered plates the following day. The car emissions were trapped by a warmer layer of air, because of cold nights and warm days. Congestion in Paris, France wa down 60 percent after just fivedays of intensifying snog. This caused the smog to rival Beijing, China, which is known as one of the most polluted cities in the world. That's pretty bad to be competing with China. The Monday where all cars were banned, the smog cleared enough for the ruling French party to rescind the ban for oddnumbered plates the following day.
+
+Now, what about a car free day? In Bogota, Colombia, there was a car free day. Every citizen either had to hike, bike, skate, or take buses to work during this carfree day. This car free day caused the city to not have any traffic jams, and no accidents at all. This isn't just the first year that Colombia decided to do this, but it was the third! This day is specifically called, "Day Without Cars." 7 million citizens were expected to find a different way to go to the destinations they needed to reach, without their trusty cars. Bogota receives a vast amount of rain storms each day, but the turnout was still at large. "The rain hasn't stopped people from participating," said Bogota Mayor Antanas Mockus. Many citizens of Bogota said that this day takes away not only their stress, but also a ton of pollution. "It's a good opportunity to take away stress and lower air pollution," said businessman Carlos Arturo Plaza as he and his wife rode a twoseat bicycle.
+
+Almost every single citizen in the United States of America owns or drives a car every single day. This has left researchers pondering a fundamental question: Has America passed the peak of driving? The United States is known for its broad expanses and suburban ideals, and has long been known for one of the world's prime car cultures. It is indeed the birthplace of Model T the home of Detroit the place where Wilson Pickett immortalized "Mustang Sally." Lately America's love addiction with motor vehicles seems to be settling down. As of April 2013, the number of miles driven per person was nearly 8 percent below the peak and equal to where the country was in January 1995. Most of the explanation to this certainly comes from recession, because broke Americans could not afford new cars, and the unemployed weren't going to work anyway. "What most intrigues me is that rates of car ownership per household and per person started to come down two to three years before the downturn," said Michael Sivak, who studies the trend and who is a research professor at the University of Michigan's Transportation Research Institute. "I think that means something more fundamental is going on," he also said. All of these changes, people who stopped car commuting as a result of the recession need to find reasons NOT to resume the habit of driving and spending stupid amounts of money on gasoline. The state of New York has a new bikesharing programs and its skyrocketing bridge and tunnel tolls refelct those new priorities, as do a proliferation of carsharing programs across the nation. A study last year found that driving by young people decreased 23 percent between 2001 and 2009.
+
+Many people around the world have cut driving out of their life for many reasons. Some being safety, money, and pollution.
+
+Example 2:
+Nearly everyone in the United States has a car, if they're of age. Many people would probably argue that they need cars. How else would you get somewhere? Well, there are plenty of alternatives to driving, and other ways to just cut back. Limiting car usage has become rather popular recently. Even though there are some disadvantages from limiting car usage, there are so many more advantages that are extremely beneficial.
+
+Pollution has always been a big problem almost everywhere in the world, and cars have a huge influence on it. Pollution can affect people's health and damages the environment. In Paris they put up a partial driving ban to clear up horrible smog. "Congestion was down 60 percent in the capital of France, after fivedays of intensifying smog..." Source 2. It only took one day of a driving ban to clear up the smog. Imagine how much less pollution there would be if people limited driving for multiple days, even maybe weeks, or months? It's not like you have to permanently give up driving, just limit it when you can.
+
+Limiting car usage can also help reduce stress levels and make you happier. It might sound crazy at first because, well how would you get places? Wouldn't that cause more stress? Vauban, a city in Germany, is a city that "forbids" parking, driveways, and houses with garages. They strategically put stores and buildings within an idealistic walking distance. "when I had a car I was always tense. I'm much happier this way,' said Heidrun Walter, a media trainer and mother of two" Source 1. If a working mother can do it, so can you. When you're always inside and juggling your kids and their needs, you'll most likely be tense and always feel busy. When you have no other option, besides paying over fourty grand for a space in a parking garage, than to walk somewhere, you'll get to be outside and experience socialization and the fresh air. In my opinion that sounds way better than being confined to a little car when you have to go somewhere.
+
+Obviously there are uncountable benefits that come from limiting car usage. I don't know about you, but honestly I would prefer limited car usage. Until someone takes action to start making it easier to access places we would normally need our car to get to, limiting car usage is not going to be easy.
+
+## ChatGPT
+In recent years, a compelling trend has emerged across the globe, challenging the conventional dependence on cars and advocating for the advantages of limiting car usage. From the car-free streets of Vauban, Germany, to the temporary driving bans in Paris and the annual car-free day in Bogota, Colombia, various communities are embracing innovative approaches to reduce their reliance on automobiles. These endeavors are not merely experimental; they form part of a broader movement termed "smart planning" aimed at creating more sustainable and environmentally friendly urban environments.
+
+Vauban, a suburban community near Freiburg, Germany, serves as a remarkable example of the success of limiting car usage. In this upscale neighborhood, streets are entirely "car-free," with strict restrictions on parking spaces. Residents are allowed to own cars, but they face the inconvenience of limited parking, with only large garages at the edge of the development available for $40,000. Remarkably, 70 percent of Vauban's families do not own cars, with 57 percent having sold their cars to move there. The residents, such as Heidrun Walter, a media trainer and mother of two, testify to the positive impact of this shift: "When I had a car, I was always tense. I'm much happier this way."
+
+Similarly, major cities like Paris have implemented driving bans as a response to severe pollution, demonstrating the immediate benefits of reduced car usage. In Paris, a partial driving ban was enforced after days of near-record pollution, resulting in a 60 percent reduction in congestion and a significant improvement in air quality. The ban targeted even- and odd-numbered license plates on alternate days, leading to fines for violators. The success of such measures highlights the potential for reducing pollution and mitigating environmental impact.
+
+Bogota, Colombia, takes a more proactive approach with its annual car-free day, known as the "Day Without Cars." Millions of Colombians participate by walking, biking, skating, or taking buses to work, leaving the streets eerily devoid of traffic jams. The event aims to promote alternative transportation, reduce smog, and alleviate stress. Despite occasional rain showers, the turnout is consistently large, reflecting a growing awareness and commitment to sustainable mobility.
+
+In the United States, the cultural shift away from car dependency is becoming apparent. Recent studies suggest a decline in car ownership, driving frequency, and the issuance of new licenses. This shift, often attributed to factors such as the recession, changing preferences, and advancements in technology, holds promising implications for reducing carbon emissions and promoting environmental sustainability. As Michael Sivak, a research professor at the University of Michigan's Transportation Research Institute, notes, "Different things are converging which suggest that we are witnessing a long-term cultural shift."
+
+The advantages of limiting car usage extend beyond environmental benefits. The reduction of stress and the promotion of happiness, as experienced by residents in Vauban, challenge the notion that car ownership is synonymous with well-being. The shift towards more sustainable and healthier modes of transportation, such as walking, cycling, and public transit, is gaining momentum globally.
+
+While the transition to a less car-dependent society may present challenges, the examples of Vauban, Paris, Bogota, and changing trends in the United States underscore the feasibility and desirability of limiting car usage. As the world grapples with the environmental consequences of widespread automobile use, these initiatives provide valuable insights into creating more livable, environmentally conscious communities. The future may indeed see a transformation in urban planning, with a focus on accessibility, sustainability, and the well-being of citizens over the convenience of cars.
+
