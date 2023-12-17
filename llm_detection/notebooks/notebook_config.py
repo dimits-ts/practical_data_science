@@ -1,3 +1,7 @@
+"""
+Config file for file names and directories for uniform file access across different notebooks.
+"""
+
 import os
 
 
