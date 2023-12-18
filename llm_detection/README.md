@@ -12,30 +12,41 @@ The methodology, analysis and implementation details as well as explanations and
 │   report.tex - source code for report file
 │
 ├───data - input data 
-│   │   chatgpt_cars.md
-│   │   chatgpt_electoral.md
-│   │   cluster_augmentation_cars.md
-│   │   sample_submission.csv
-│   │   test_essays.csv
-│   │   train_essays.csv
-│   │   train_prompts.csv
-│
+│       cars_generated.csv
+│       chatgpt_cars.md
+│       chatgpt_electoral.md
+│       cluster_augmentation_cars.md
+│       cluster_augmentation_election.md
+│       elections_generated.csv
+│       LLM_generated_essay_PaLM.csv
+│       sample_submission.csv
+│       test_essays.csv
+│       train_essays.csv
+│       train_prompts.csv
 ├───notebooks
-│   │   llm_detection.ipynb - The main notebook the project is built upon
+│       llm_detection.ipynb - The main notebook the project is built upon
+│       loov.ipynb
+│       notebook_config.py
 │
 ├───output - output data and figures
 │       attribution.png
 │       augmentation.csv - Formatted generated data
-│       augmentation_stats.png 
+│       attribution.png
+│       augmentation.csv
+│       augmentation_stats.png
 │       clusters.png
 │       dataset_size.png
+│       diversity_plot.png
 │       similarity.png
-│
+│       similarity_mean_max.png
+├───intermediate - between-notebook shared data
+│       best_model.skops
+│       loov_input_data.csv
+│       loov_res.csv
 └───src - Personal library
-    │   crawling.py
-    │   data.py
-    │   ml.py
-└── .gitignore
+│       crawling.py
+│       data.py
+│       ml.py
 ```
 
 ## The Dataset
